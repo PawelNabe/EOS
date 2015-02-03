@@ -1,0 +1,145 @@
+#!/bin/sh
+# (C) Copyright by PaN Super Sonic Software Service 1993, 1995, 1999, 2002
+#                  expert for hi tech & low budget
+
+set -a
+IFS=' 	
+'
+TERM=hardcopy
+ATRIA_NO_BOLD=T
+ATRIAHOME=/usr/atria
+set +a
+CLEARTOOL=${ATRIAHOME}/bin/cleartool
+
+set -f
+
+stderr () {
+	: ${ARGV0:=`/bin/basename $0`}
+	echo "${ARGV0}:" ${1+"$@"} >&2
+} # stderr
+
+Exit () {	# exitcode messages....
+	: ${ARGV0:=`/bin/basename $0`}
+	ec="$1"
+	shift
+	stderr ${1+"$@"}
+	exit "${ec}"
+} # Exit
+
+if [ -x /bin/posix/sh -a -z "${__RUNNING_UNDER_POSIX}" ]
+	then
+		__RUNNING_UNDER_POSIX=T
+		export __RUNNING_UNDER_POSIX
+		exec /bin/posix/sh $0 ${1+"$@"}
+		Exit 8 Cannot exec /bin/posix/sh
+fi
+
+unset __RUNNING_UNDER_POSIX
+
+umask 2
+
+cflags () {
+	set -- `date '+%d %h %y %T'`
+	if [ 93 -le "$3" -a "$3" -le 99 ]
+		then year="19$3"
+		else year="20$3"
+	fi
+	echo CFLAGS="-D__DATE__=\\\"$1\\ $2\\ ${year}\\\" -D__TIME__=\\\"$4\\\""
+} # cflags
+
+datetime() {
+	set -- `/bin/date`
+	DATE="$1 $3 $2 $6"
+	TIME="$4 $5"
+} # datetime
+
+mtime () { # fn
+	perl -e '($dev,$ino,$mode,$nlink,$uid,$gid,$rdev,$size,$atime,$mtime,$ctime) = stat("'"$1"'");
+		( $sec, $min, $hour, $mday, $mon, $year, $wday, $yday, $isdst ) = 
+          		localtime ( $mtime );
+		'"
+		( @months ) = ( 'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul',
+                        		'Aug', 'Sep', 'Oct', 'Nov', 'Dec' );
+		( @wdays ) = ( 'Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun' );
+		"'
+		$year += 1900;
+		printf ( "%s %2d %s %04d %2d:%02d:%02d\n",
+					@wdays[$wday], $mday, @months [ $mon ], $year,
+					$hour, $min, $sec
+	);'
+} # mtime
+
+DOTMP=/tmp/.pancc.$$
+/bin/rm -f "${DOTMP}"
+version () {
+	TARGET=
+	VERSION=
+	while [ $# -gt 0 ]
+		do
+			# (((
+			case "$1" in
+				*.c)	
+					fn="$1"
+					set -- x `mtime "${fn}"`
+					shift
+					if [ $# = 5 ]
+						then
+							DATE="$1 $2 $3 $4"
+							TIME="$5"
+						else
+							stderr "Warning: cannot find timestamp of \"${fn}\". Using current date instead."
+							datetime
+					fi
+					set -- x `${CLEARTOOL} ls -d "${fn}" 2>&-` && fn="$2"
+					# (
+					case "$2:$3" in
+						*/CHECKEDOUT:from)	fn="$2 $3 $4";;
+					esac
+					VERSION="@(#)${fn} ${DATE} ${TIME}"
+					break
+					;;
+				*.[oa])
+					(
+						echo "############ "$1" ############"
+						${CLEARTOOL} catcr "$1"
+						echo
+					) | /bin/sed -e 's/^/@(#)/' >> "${DOTMP}"
+					;;
+				-o)
+					TARGET="$2"
+					;;
+			esac
+			shift
+		done
+} # version
+
+version "$@"
+
+cc -D__DATE__="\"${DATE}\"" -D__TIME__="\"${TIME}\"" -D__VERSION__="\"${VERSION}\"" "$@"
+ec=$?
+[ "${ec}" = 0 ] && [ -s "${DOTMP}" ] && [ -n "${TARGET}" ] && [ -s "${TARGET}" ] && /bin/cat "${DOTMP}" >> "${TARGET}"
+/bin/rm -f "${DOTMP}"
+exit ${ec}
+
+first=T
+for par
+	do
+		if [ -n "${first}" ]
+			then
+				unset first
+				set -- X
+				shift
+		fi
+		set -- "$@" "${par}"
+		[ ".${par}" = .-c ] && set -- "$@" -D__DATE__="\"${DATE}\"" -D__TIME__="\"${TIME}\""
+		echo "$# : ${par}"
+	done
+
+
+for par
+	do
+		: echo "$# : ${par}"
+	done
+
+# set -x
+cc "$@"

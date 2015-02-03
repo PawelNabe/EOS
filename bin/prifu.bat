@@ -1,0 +1,2 @@
+zsh -c ". ./prifu.sh %*"
+

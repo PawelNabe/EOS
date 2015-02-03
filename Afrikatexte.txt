@@ -1,0 +1,12 @@
+C:\EOS>grep -i -l afrika *film
+e602film	1999	118-125	beschriftet	 8	+	 300 MB
+e604film	2001	001-013 beschriftet	13	+	1800 MB
+ert1film	1999	015-021 beschriftet	 7	+	 380 MB
+mjz1film		003, 007 kein DAT File	 2
+t901film	2001	173-174  beschriftet	 2	+	 130 MB
+t902film	1999	027-030  beschriftet	 4	+	 230 MB
+
+
++ Vortrag 180 MB
+
+

@@ -1,0 +1,26 @@
+#!/bin/sh
+# (C) Copyright by PaN Super Sonic Software Service 1997, 2003, 2006
+#               expert for hi tech & low budget
+
+set -a
+LD_LIBRARY_PATH="${LD_LIBRARY_PATH}:/usr/openwin/lib:${HOME}/lib"
+
+if [ -x /bin/posix/sh ]
+	then exec "$0.hp" ${1+"$@"}
+	elif [ -d /dev/pts ]
+		then
+			# (((
+			case "`/bin/uname`" in
+				SunOS)
+					exec "$0.sol"	${1+"$@"}
+					;;
+				AIX)
+					exec "$0.aix"	${1+"$@"}
+					;;
+				Linux)
+					exec "$0.linux"	${1+"$@"}
+					;;
+			esac
+		else exec "$0.sunos"	${1+"$@"}
+fi
+

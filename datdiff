@@ -1,0 +1,158 @@
+#!/bin/sh
+# (C) Copyright by PaN Super Sonic Software Service 1995, 1999, 2003
+#                  expert for hi tech & low budget
+
+stderr () {
+	echo "${ARGV0:=`basename $0`}:" "$@" >&2
+} # stderr
+
+usage () {
+	: ${ARGV0:=`basename $0`}
+	exec >&2
+	echo "Usage: ${ARGV0} [-j] [-s] [-i] a.dat... b.dat"
+	echo "       ${ARGV0} [-j] [-s] [-i] a.dat... dir"
+	echo "       ${ARGV0} [-j] [-s] [-i] datdir1 datdir2"
+	echo "Options:"
+	echo "	-s	short output (no diff(1))"
+	echo "	-i	echo identical files."
+	echo "	-j	pass join flag to rifu(1)"
+	echo "	-tw	use twmerge(1) instead of diff(1)"
+	echo "	-cd	use xcleardiff(1) instead of diff(1)"
+	exit
+} # usage
+
+datfn () {
+	# ((
+	case "$2" in
+		*.dat|*.DAT)	eval "$1"="\"\$2\"";;
+		*)		eval "$1"="\"\$2.dat\"";;
+	esac
+} # datfn
+
+
+if [ "Windows_NT" = "${OS}" ]
+	then
+		XCLEARDIFF='cleartool diff -g'
+		RIFU=rifu32
+	else
+		XCLEARDIFF='xcleardiff'
+		RIFU=rifu
+fi
+
+rifun () {
+	${RIFU} "$@"
+	echo
+} # rifun
+
+datdiff () { # a.dat b.dat
+	datfn adat "$1"
+	datfn bdat "$2"
+	cmp -s "${adat}" "${bdat}"
+	# (((
+	case $? in
+		0)
+			[ -n "${ECHOSAME}" ] && echo "Files ${adat} and ${bdat} are identical"
+			;;
+		1)
+			if [ -n "${SHORT}" ]
+				then echo "diff ${adat} ${bdat}"
+				else
+					trap 'rm -f e...1 e...2 ; exit' 1 2
+					rifun ${JOIN} "${adat}" | cat -v > e...1
+					rifun ${JOIN} "${bdat}" | cat -v > e...2
+					${DIFFCMD} e...1 e...2
+					rm e...1 e...2
+					trap 'exit' 1 2
+			fi
+			;;
+		2)
+			[ -f "${adat}" ] || stderr "\"${adat}\" not found."
+			[ -f "${bdat}" ] || stderr "\"${bdat}\" not found."
+			;;
+	esac
+} # datdiff
+
+dirdatdiff () { # dir1 dir2
+	adir="$1"
+	bdir="$2"
+	set -- x `( cd "${adir}" && find . -type f -name '*.dat' -print | sed -e 's:^\./::' | sort )`
+	shift
+	if [ $# = 0 ]
+		then stderr No .dat files in "\"${adir}\"" found.
+		else
+			for dat
+				do
+					datdiff "${adir}/${dat}" "${bdir}/${dat}"
+				done
+	fi
+} # dirdatdiff
+
+unset LC_CTYPE LANG     # Avoid Warning: locale not supported by Xlib, locale set to C
+DIFFCMD=diff
+ECHOSAME=
+SHORT=
+JOIN=
+
+while [ $# -gt 0 ]
+	do
+		# ((((((((
+		case "$1" in
+			[+-][xv]|[+-][xv][vx])
+				set ${1}
+				;;
+			-j)
+				JOIN=-j
+				;;
+			-i)
+				ECHOSAME=T
+				;;
+			-s)
+				SHORT=T
+				;;
+			-tw|-twm|-twme|-twmer*)
+				DIFFCMD='twmerge -r'
+				;;
+			-cd)
+				DIFFCMD="${XCLEARDIFF}"
+				;;
+			-*)
+				usage
+				;;
+			*)
+				break
+				;;
+		esac
+		shift
+	done
+
+[ $# -lt 2 ] && usage
+
+for last
+	do
+		:
+	done
+
+if [ -d "$1" ]
+	then
+		while [ $# -gt 1 ]
+			do
+				dirdatdiff "$1" "${last}"
+				shift
+			done
+	else
+		if [ -d "${last}" ]
+			then
+				while [ $# -gt 1 ]
+					do
+						datdiff "$1" "${last}/$1"
+						shift
+					done
+			else
+				while [ $# -gt 1 ]
+					do
+						datdiff "$1" "$2"
+						shift 2
+					done
+		fi
+fi
+

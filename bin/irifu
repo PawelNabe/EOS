@@ -1,0 +1,6 @@
+#!/bin/sh
+# (C) Copyright by PaN Super Sonic Software Service 1994
+#                  expert for hi tech & low budget
+
+rifu -pi -LDe "$@"
+

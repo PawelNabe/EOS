@@ -1,0 +1,103 @@
+#!/bin/sh
+# (C) Copyright by PaN Super Sonic Software Service 1995, 2003, 2005
+#                  expert for hi tech & low budget
+## SCCS_ID = "%Z% %Y% %Q% %M% %I% %E% %U% Pawel Nabe"
+
+stderr () {
+	echo "${ARGV0:=`basename $0`}:" "$@" >&2
+} # stderr
+
+datfn () {
+	case "$2" in
+		*.dat|*.DAT|*.dat@@/*|*.DAT@@/*)	eval "$1"="\"\$2\"";;
+		*)					eval "$1"="\"\$2.dat\"";;
+	esac
+} # datfn
+
+if [ "Windows_NT" = "${OS}" ]
+	then COPY='cp -p'
+	else COPY='ln -s'
+fi
+
+preddiff () { #
+	datfn adat "$1"
+	set -- `cleartool des -fmt "%ELn %PSLn %En@@%PSn %Ln %Xn" "${adat}"`
+	if [ $# = 5 ]
+		then
+			# (
+			case "$5" in
+				*/CHECKEDOUT)
+					set -- "$1" "$2" "$3" CO "${adat}"
+					;;
+			esac
+
+			t1=...$2$1
+			t2=...$4$1
+			if [ "Windows_NT" = "${OS}" ]
+				then
+					t1="LN${t1}"
+					t2="LN${t2}"
+				else
+					t1="/tmp/${t1}"
+					t2="/tmp/${t2}"
+			fi
+			case "${adat}" in
+				/*)	abs=;;
+				*)	abs=${CWD:=`pwd`/};;
+			esac
+			trap 'rm -f "${t1}" "${t2}" ; exit' 1 2
+			${COPY} "${abs}$3" "${t1}"
+			${COPY} "${abs}$5" "${t2}"
+			datdiff ${OPTS} "${t1}" "${t2}"
+			rm -f "${t1}" "${t2}"
+			trap 'exit' 1 2
+	fi
+} # preddiff
+
+dirpreddiff () { # dir
+	adir="$1"
+	set -- x `( cd "${adir}" && find . -type f -name '*.dat' -print | sed -e 's:^\./::' | sort )`
+	shift
+	if [ $# = 0 ]
+		then stderr No .dat files in "\"${adir}\"" found.
+		else
+			for dat
+				do
+					preddiff "${adir}/${dat}"
+				done
+	fi
+} # dirpreddiff
+
+OPTS=
+while [ $# -gt 0 ]
+	do
+		case "$1" in
+			[+-][xv]|[+-][xv][vx])
+				set ${1}
+				;;
+			-*)
+				OPTS="${OPTS} $1"
+				;;
+			*)
+				break
+				;;
+		esac
+		shift
+	done
+
+for arg
+	do
+		case "${arg}" in
+			[+-][xv]|[+-][xv][vx])
+				set ${arg}
+				continue
+				;;
+		esac
+
+		if [ -d "${arg}" ]
+			then
+				dirpreddiff "${arg}"
+			else
+				preddiff "${arg}"
+		fi
+	done

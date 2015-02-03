@@ -1,0 +1,4 @@
+#!/bin/sh
+
+exec perl "$0.bat" ${1+"$@"}
+
