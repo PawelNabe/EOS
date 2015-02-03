@@ -1,0 +1,41 @@
+#!/bin/sh
+
+set +f
+
+for i in t90????.rwd
+	do
+		set -f
+		# ((
+		case "$i" in
+			*.rwd)
+				;;
+			*)
+				i="${i}.rwd"
+				;;
+		esac
+		rifut90 -R $i |
+			while read line
+				do
+					# (
+					case "${line}" in
+						*FEL:*)
+							set -- ${line}
+							r=`basename $i .rwd`
+							set -- `rifu -r $2 -j "$r"`
+							while [ $# -gt 0 ]
+								do
+									#(
+									case "$1" in
+										EVR:*) break;;
+									esac
+									shift
+								done
+							echo "${line} $*	$r"
+							;;
+					esac
+				done
+				# 1955 19 TV:  15 AV:5.6:00 ASD AO  AM:A EV: 3.5 EVR:4a(74)       FEL:(0.0 ) EVR:- 7 3/4
+	done | sed -e 's:.../.*]::' -e 's/EV:/EV: /' -e 's/ *//' |
+			tr '()' '  ' |
+				awk '{printf("%03d %s\n", $12, $0)}' | sort
+

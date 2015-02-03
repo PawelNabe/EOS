@@ -1,0 +1,59 @@
+# (C) Copyright by PaN Super Sonic Software Service 2002, 2006
+#                  expert for hi tec & low budget
+
+# clearmake -f makefile.nt CC=pancc OBJ=.o CFLAGS="__VERSION__=__CCXPN__"
+# clearmake -f makefile.nt CC=pancc OBJ=.o CFLAGS="-D__const= -Dconst= -D__VERSION__=__CCXPN__ -include /usr/include/sys/errno.h"
+
+# Makefile usable for DOS and UNIX
+HISTFILE=
+CDPATH=
+ENV=
+
+LDFLAGS=
+CFLAGS=
+
+# S=		s
+# O=		-o $@
+# E=
+# OBJ=		.o
+
+#ifdef __MSDOS__
+S=		asm
+O=		-o$@
+E=		.exe
+CC=		bcc
+OBJ=		.obj
+
+#endif # __MSDOS__
+
+RIFUT90OBJ=rifut90$(OBJ) datestr$(OBJ) freopen$(OBJ)
+
+rifut90$(E):	$(RIFUT90OBJ)
+		$(CC) $(O) $(LDFLAGS) $(RIFUT90OBJ)
+
+rifut90$(OBJ):	rifut90.c rifu.h pos.h
+
+.c$(OBJ):
+		$(CC) -c $(CFLAGS) $<
+
+.c$(E):
+		$(CC) -c $(CFLAGS) $<
+		$(CC) $(O) $(LDFLAGS) $*$(OBJ)
+
+.c.$(S):
+		$(CC) -S $(CFLAGS) $<
+
+%.dat:		%
+		asctodat $@
+
+#ifndef __MSDOS__
+.SUFFIXES:	.i .$(S) .dat $(OBJ)
+
+.c.i:
+		$(CC) -P $(CFLAGS) $<
+# Find hidden dependencies. Works only with SunMake's NSE.
+# Generates .make.state & .nse_depinfo.
+.KEEP_STATE:
+
+#endif # !__MSDOS__
+

@@ -1,0 +1,1304 @@
+LENS DATA of "t901179.rwd":
+	 0:'--'
+	 1:'28'
+	 2:'50'
+	 3:'135'
+	 4:'35-70'
+	 5:'35-105'
+	 6:'75-200'
+	 7:'100-300'
+	 8:'8'
+	 9:'15'
+	10:'17'
+	11:'  7 5'
+
+Begin ff
+
+NO.  FR   TV  AV             LENS        DATE  TIME  ISO  +/- AE-  FLASH METER
+                                                              MODE       -ING
+0000  1   20 8.0 ASD AO      28mm 12 Jan 2002 12:59  100      AV    FEL   PART      AM:A FEL:-1.0  EVR:-3.75
+
+0001  2   20 6.7 ASD AO      28mm 12 Jan 2002 13:01  100      AV    FEL   PART      AM:A FEL:-0.5  EVR:-2.0 
+
+0002  3   60 5.6 ASD AO      28mm 12 Jan 2002 13:12  100      PRG   ATTL  PART      AM:A 
+0003  4   10 4.0 ASD AO      28mm 12 Jan 2002 13:12  100      AV    FEL   PART      AM:A FEL:1.0  EVR:-3.75
+
+0004  5   60 5.6 ASD AO      28mm 12 Jan 2002 13:14  100      PRG   ATTL  PART      AM:A 
+0005  6   15 2.8 ASD AO      28mm 12 Jan 2002 13:14  100      AV    FEL   PART      AM:A FEL:1.0  EVR:-3.0 
+
+0006  7   30 2.5 ASD AO      50mm 13 Jan 2002 12:18  100      AV    FEL   SPOT      AM:A FEL:0.5  EVR:-2.25
+
+0007  8   90 1.8 ASD AO      50mm 13 Jan 2002 12:19  100      AV    FEL   PART      AM:A FEL:1.0  EVR:-2.0 
+
+0008  9   30 1.8 ASD AO      50mm 13 Jan 2002 12:19  100      TV    FEL   PART      AM:A FEL:0.5  EVR:-0.5 
+
+0009 10   20 2.5 ASD AO      50mm 13 Jan 2002 12:20  100      TV    FEL   PART      AM:A FEL:0.0  EVR:-1.25
+
+0010 11   15 SDA ASD SD      50mm 13 Jan 2002 12:21  100      AV    FEL   PART      AM:A FEL:0.0  EVR:-4.75
+
+0011 12   15 SDA ASD SD      50mm 13 Jan 2002 12:22  100      AV    FEL   PART      AM:A FEL:0.0  EVR:-2.25
+
+0012 13   60 4.5 ASD AO      50mm 13 Jan 2002 12:27  100      TV          PART      AM:A 
+0013 14   60 8.0 ASD AO      50mm 13 Jan 2002 12:28  100      TV          PART      AM:A 
+0014 15   45 2.8 ASD AO      50mm 13 Jan 2002 12:34  100      TV    FEL   PART      AM:A FEL:-0.5  EVR:-0.5 
+
+0015 16   20 5.6 ASD AO      15mm 13 Jan 2002 13:01  100      AV          PART      AM:A 
+0016 17   20 5.6 ASD AO      15mm 13 Jan 2002 13:01  100      AV          PART      AM:A 
+0017 18   20 5.6 ASD AO      15mm 13 Jan 2002 13:02  100      AV          PART      AM:A 
+0018 19   45 5.6 ASD AO      15mm 13 Jan 2002 13:02  100 +1.0 AV          PART      AM:A 
+0019 20   30 5.6 ASD AO      15mm 13 Jan 2002 13:03  100      AV          PART      AM:A 
+0020 21   30 5.6 ASD AO      15mm 13 Jan 2002 13:04  100      AV          PART      AM:A 
+0021 22   30 5.6 ASD AO      15mm 13 Jan 2002 13:04  100      AV          PART      AM:A 
+0022 23   15 5.6 ASD AO      15mm 13 Jan 2002 13:05  100      AV          PART      AM:A 
+0023 24   60 4.0 ASD AO      50mm 13 Jan 2002 13:10  100      TV          PART      AM:A 
+0024 25   60 3.5 ASD AO      50mm 13 Jan 2002 13:13  100      TV          PART      AM:A 
+0025 26   20 5.6 ASD AO      50mm 13 Jan 2002 13:16  100      TV          PART      AM:A 
+0026 27   15 2.8 ASD AO      50mm 13 Jan 2002 13:18  100      TV          PART      AM:A 
+0027 28   20 5.6 ASD AO      50mm 13 Jan 2002 13:18  100      TV          PART      AM:A 
+0028 29   20 6.7 ASD AO      50mm 13 Jan 2002 13:22  100      TV          PART      AM:A 
+0029 30   30 5.6 ASD AO      50mm 13 Jan 2002 13:23  100      TV          PART      AM:A 
+0030 31   30 2.8 ASD AO      28mm 13 Jan 2002 13:26  100      TV          PART      AM:A 
+0031 32   45 4.0 ASD AO      28mm 13 Jan 2002 13:28  100      TV          PART      AM:A 
+0032 33  180 4.0 ASD AO      28mm 13 Jan 2002 13:51  100      AV    TTL   SPOT      AM:A 
+0033 34  250 4.0 ASD AO      28mm 13 Jan 2002 13:51  100      AV    FEL   SPOT      AM:A FEL:0.0  EVR:-3.75
+
+0034 35   45 4.0 ASD AO      28mm 13 Jan 2002 13:52  100      AV    TTL   SPOT      AM:A 
+0035 36   45 M   MAN AO      28mm 13 Jan 2002 13:53  100      AV          SPOT      AM:A SPOT DATA: 4.25
+
+LENS DATA of "t901180.rwd":
+	 0:'--'
+	 1:'28'
+	 2:'50'
+	 3:'135'
+	 4:'35-70'
+	 5:'35-105'
+	 6:'75-200'
+	 7:'100-300'
+	 8:'8'
+	 9:'15'
+	10:'17'
+	11:'  7 5'
+
+Begin fe
+
+NO.  FR   TV  AV             LENS        DATE  TIME  ISO  +/- AE-  FLASH METER
+                                                              MODE       -ING
+6445  1   30  13 ASD AO      28mm 15 Jan 2002 12:31  100      TV          PART      AM:A 
+6446  2   30  16 ASD AO      28mm 15 Jan 2002 12:31  100      TV          PART      AM:A 
+6447  3   30  16 ASD AO      28mm 15 Jan 2002 12:31  100      TV          PART      AM:A 
+6448  4   30  19 ASD AO      28mm 15 Jan 2002 12:32  100      TV          PART      AM:A 
+6449  5   30 4.0 ASD AO      28mm 15 Jan 2002 12:35  100      TV    FEL   PART      AM:A FEL:0.0  EVR:-0.25
+
+6450  6   45 3.5 ASD AO      28mm 15 Jan 2002 12:35  100      TV    FEL   PART      AM:A FEL:0.5  EVR:-0.25
+
+6451  7    8 8.0 ASD AO      28mm 15 Jan 2002 12:35  100      AV    FEL   PART      AM:A FEL:0.0  EVR:-0.25
+
+6452  8    4 5.6 ASD AO      28mm 15 Jan 2002 12:36  100      AV    FEL   PART      AM:A FEL:0.0  EVR:1.75
+
+6453  9   15 5.6 ASD AO      28mm 15 Jan 2002 12:36  100      AV    FEL   PART      AM:A FEL:0.0  EVR:-0.25
+
+6454 10  500 5.6 ASD AO     135mm 15 Jan 2002 12:40  100      AV          PART      AM:A 
+6455 11  250 5.6 ASD AO     135mm 15 Jan 2002 12:41  100 +1.0 AV          PART      AM:A 
+6456 12  125 5.6 ASD AO     135mm 15 Jan 2002 12:42  100 +2/3 AV          PART      AM:A 
+6457 13  250 5.6 ASD AO      28mm 15 Jan 2002 12:48  100      AV          PART      AM:A 
+6458 14   20 2.8 ASD AO      28mm 15 Jan 2002 12:49  100      AV          PART      AM:A 
+6459 15  350 2.8 ASD AO      28mm 15 Jan 2002 12:49  100      AV          PART      AM:A 
+6460 16   15 4.5 ASD AO       8mm 15 Jan 2002 12:51  100      AV          PART      AM:A 
+6461 17   60 4.5 ASD AO       8mm 15 Jan 2002 12:51  100      AV          PART      AM:A 
+6462 18   15 6.7 ASD AO       8mm 15 Jan 2002 12:53  100      AV          SPOT      AM:A SPOT DATA: -1.5  1.5 
+
+6463 19  180 6.7 ASD AO       8mm 15 Jan 2002 12:53  100      AV          SPOT      AM:A SPOT DATA: -0.75 0.75
+
+6464 20   90  13 ASD AO       8mm 15 Jan 2002 12:54  100      AV          PART      AM:A 
+6465 21   60  13 ASD AO       8mm 15 Jan 2002 12:54  100      AV          PART      AM:A 
+6466 22   20  13 ASD AO       8mm 15 Jan 2002 12:55  100      AV          PART      AM:A 
+6467 23  125  13 ASD AO       8mm 15 Jan 2002 12:56  100      AV          PART      AM:A 
+6468 24  125  13 ASD AO       8mm 15 Jan 2002 12:56  100      AV          PART      AM:A 
+6469 25   60 2.8 ASD AO       8mm 16 Jan 2002 19:50  100      P     FEL   SPOT      AM:A FEL:0.0  EVR:-5.25
+
+6470 26   90 5.6 ASD AO       8mm 16 Jan 2002 19:51  100      AV    FEL   SPOT      AM:A FEL:0.0  EVR:-2.75
+
+6471 27   90 5.6 ASD AO       8mm 16 Jan 2002 19:51  100      AV    FEL   SPOT      AM:A FEL:0.0  EVR:2.25
+
+6472 28   60 2.8 ASD AO       8mm 16 Jan 2002 19:52  100      PRG   FEL   SPOT      AM:A FEL:0.0  EVR:-7.5 
+
+6473 29    6 5.6 ASD AO       8mm 16 Jan 2002 19:54  100      AV    FEL   SPOT      AM:A FEL:0.0  EVR:-5.75
+
+6474 30  10" 5.6 ASD AO       8mm 16 Jan 2002 19:56  100      AV    FEL   SPOT      AM:A FEL:0.0  EVR:-0.5 
+
+6475 31   8" 5.6 ASD AO       8mm 16 Jan 2002 19:57  100      AV    FEL   SPOT      AM:A FEL:0.0  EVR:-0.5 
+
+6476 32   8" 5.6 ASD AO       8mm 16 Jan 2002 19:59  100      AV    FEL   SPOT      AM:A FEL:0.0  EVR:-0.5 
+
+6477 33   8" 5.6 ASD AO       8mm 16 Jan 2002 20:00  100      AV    FEL   SPOT      AM:A FEL:-0.5  EVR:-0.75
+
+6478 34  1"5 5.6 ASD AO       8mm 16 Jan 2002 20:01  100      AV    FEL   SPOT      AM:A FEL:0.0  EVR:-1.25
+
+6479 35   90 5.6 ASD AO       8mm 16 Jan 2002 20:02  100      AV    FEL   SPOT      AM:A FEL:0.0  EVR:-2.5 
+
+6480 36   10 5.6 ASD AO       8mm 16 Jan 2002 20:02  100      AV    FEL   SPOT      AM:A FEL:0.0  EVR:2.5 
+
+LENS DATA of "T901181.rwd":
+	 0:'--'
+	 1:'28'
+	 2:'50'
+	 3:'135'
+	 4:'35-70'
+	 5:'35-105'
+	 6:'75-200'
+	 7:'100-300'
+	 8:'8'
+	 9:'15'
+	10:'17'
+	11:'  7 5'
+
+Begin fe
+
+NO.  FR   TV  AV             LENS        DATE  TIME  ISO  +/- AE-  FLASH METER
+                                                              MODE       -ING
+6481  1  350 5.6 ASD AO      28mm  2 Feb 2002 17:21  100      AV          PART      AM:A 
+6482  2  350 5.6 ASD AO      17mm  2 Feb 2002 17:22  100      AV          PART      AM:A 
+6483  3  250 5.6 ASD AO      17mm  2 Feb 2002 17:22  100      AV          PART      AM:A 
+6484  4  350 5.6 ASD AO      17mm  2 Feb 2002 17:22  100      AV          PART      AM:A 
+6485  5   60 5.6 ASD AO      17mm  2 Feb 2002 17:22  100      AV          PART      AM:A 
+6486  6  125 5.6 ASD AO      17mm  2 Feb 2002 17:22  100      AV          PART      AM:A 
+6487  7   45 5.6 ASD AO      50mm  2 Feb 2002 17:49  100      AV          PART      AM:A 
+6488  8   90 3.5 ASD AO     135mm  2 Feb 2002 17:50  100      PRG         PART      AM:A 
+6489  9   90 3.5 ASD AO     135mm  2 Feb 2002 18:15  100      PRG         PART      AM:A 
+6490 10   90 2.8 ASD AO     135mm  2 Feb 2002 18:16  100      TV          PART      AM:A 
+6491 11   60 2.5 ASD AO      50mm  2 Feb 2002 18:18  100      TV          PART      AM:A 
+6492 12   60  16 ASD AO      28mm  3 Feb 2002 15:46  100      TV          SPOT      AM:A SPOT DATA: 0.0 
+
+6493 13   90  19 ASD AO      28mm  3 Feb 2002 15:47  100      TV    FEL   SPOT      AM:A FEL:0.5  EVR:0.0 
+
+6494 14   60 3.5 ASD AO      28mm  8 Feb 2002 20:32  100      P     FEL   PART      AM:A FEL:0.0  EVR:-4.25
+
+6495 15   30 4.0 ASD AO      28mm  9 Feb 2002 11:29  100      TV          PART      AM:A 
+6496 16   15 4.5 ASD AO      28mm  9 Feb 2002 11:30  100      AV    FEL   PART      AM:A FEL:-0.5  EVR:-2.25
+
+6497 17  250 4.5 ASD AO      28mm  9 Feb 2002 11:33  100      AV          PART      AM:A 
+6498 18   10 4.5 ASD AO      28mm  9 Feb 2002 11:34  100      AV          PART      AM:A 
+6499 19   20 2.8 ASD AO      28mm  9 Feb 2002 11:37  100      AV          PART      AM:A 
+6500 20    8 4.0 ASD AO      50mm 12 Feb 2002 21:39  100      AV          PART      AM:A 
+6501 21    3 8.0 ASD AO      50mm 12 Feb 2002 21:39  100      AV          PART      AM:A 
+6502 22   1" 4.0 ASD AO      50mm 12 Feb 2002 21:40  100      TV          PART      AM:A 
+6503 23   3"  19 ASD AO      50mm 12 Feb 2002 21:40  100      TV          PART      AM:A 
+6504 24   3"  19 ASD AO      50mm 12 Feb 2002 21:40  100      TV          PART      AM:A 
+6505 25   3" 8.0 ASD AO      50mm 12 Feb 2002 21:42  100      TV          AVER      AM:A 
+6506 26   3" 4.5 ASD AO      50mm 12 Feb 2002 21:43  100      TV          AVER      AM:A 
+6507 27   3"  11 ASD AO      50mm 12 Feb 2002 21:43  100      TV          AVER      AM:A 
+6508 28   3"  13 ASD AO      50mm 12 Feb 2002 21:47  100      TV          AVER      AM:A 
+6509 29   3" 9.5 ASD AO      50mm 12 Feb 2002 21:47  100      TV          AVER      AM:A 
+6510 30   3" 6.7 ASD AO      50mm 12 Feb 2002 21:47  100      TV          AVER      AM:A 
+6511 31   3"  19 ASD AO      50mm 12 Feb 2002 21:48  100      TV          AVER      AM:A 
+6512 32   3"  19 ASD AO      50mm 12 Feb 2002 21:48  100      TV          AVER      AM:A 
+6513 33   6" 6.7 ASD AO      50mm 12 Feb 2002 21:56  100      TV          AVER      AM:A 
+6514 34   6" 9.5 ASD AO      50mm 12 Feb 2002 21:56  100      TV          AVER      AM:A 
+6515 35  10"  22 ASD AO      50mm 12 Feb 2002 21:57  100      TV          AVER      AM:A 
+6516 36   8"  22 ASD AO      50mm 12 Feb 2002 21:58  100      TV          AVER      AM:A 
+NO.  FR   TV  AV             LENS        DATE  TIME  ISO  +/- AE-  FLASH METER
+                                                              MODE       -ING
+6517  1  10"  19 ASD AO      50mm 12 Feb 2002 21:59  100      TV          AVER      AM:A 
+6518  2  10"  19 ASD AO      50mm 12 Feb 2002 21:59  100      TV          AVER      AM:A 
+6519  3   6"  22 ASD AO      50mm 12 Feb 2002 21:59  100      TV          AVER      AM:A 
+6520  4   4"  16 ASD AO      50mm 12 Feb 2002 21:59  100      TV          AVER      AM:A 
+6521  5   4" 5.6 ASD AO      50mm 12 Feb 2002 22:01  100      TV          AVER      AM:A 
+6522  6   4" 5.6 ASD AO      50mm 12 Feb 2002 22:01  100      TV          AVER      AM:A 
+6523  7   60  13 ASD AO      28mm 17 Feb 2002 15:51  100      TV          AVER      AM:A 
+6524  8   60  19 ASD AO      28mm 17 Feb 2002 15:52  100      TV          PART      AM:A 
+6525  9   20 3.5 ASD AO      28mm 17 Feb 2002 16:58  100      TV    FEL   SPOT      AM:A FEL:0.0  EVR:0.75
+
+6526 10   20 2.8 ASD AO      28mm 17 Feb 2002 16:58  100      TV    FEL   SPOT      AM:A FEL:0.0  EVR:1.25
+
+6527 11   20 4.0 ASD AO      28mm 17 Feb 2002 16:59  100      TV    TTL   SPOT      AM:A 
+6528 12   10 2.8 ASD AO      28mm 17 Feb 2002 16:59  100      TV    FEL   SPOT      AM:A FEL:0.0  EVR:1.5 
+
+6529 13   60 4.0 ASD AO      28mm 17 Feb 2002 17:08  100      PRG   TTL   SPOT      AM:A 
+6530 14   60 4.0 ASD AO      28mm 17 Feb 2002 17:08  100      PRG   TTL   SPOT      AM:A 
+6531 15   60 2.8 ASD AO      28mm 22 Feb 2002 22:14  100      PRG   FEL   SPOT      AM:A FEL:0.0  EVR:-8.0 
+
+6532 16   60 2.8 ASD AO      28mm 22 Feb 2002 22:14  100      PRG   TTL   SPOT      AM:A 
+6533 17   60 4.0 ASD AO      28mm 22 Feb 2002 22:16  100      PRG   FEL   SPOT      AM:A FEL:0.0  EVR:-6.0 
+
+6534 18   60 4.0 ASD AO      28mm 22 Feb 2002 22:17  100      PRG   TTL   SPOT      AM:A 
+6535 19   15 2.8 ASD AO      28mm 23 Feb 2002  8:36  100      PRG         PART      AM:A 
+6536 20   60 4.0 ASD AO      28mm 23 Feb 2002  8:55  100      PRG   FEL   SPOT      AM:A FEL:0.0  EVR:-7.0 
+
+6537 21   60 3.5 ASD AO      28mm 23 Feb 2002  8:57  100      PRG   TTL   SPOT      AM:A 
+6538 22   60 4.0 ASD AO      28mm 23 Feb 2002  8:58  100      PRG   FEL   SPOT      AM:A FEL:0.0  EVR:-4.75
+
+6539 23   60 4.0 ASD AO      28mm 23 Feb 2002  9:02  100      PRG   FEL   SPOT      AM:A FEL:0.0  EVR:-5.25
+
+6540 24   60 4.0 ASD AO      28mm 23 Feb 2002  9:31  100      PRG   TTL   SPOT      AM:A 
+6541 25   60 4.0 ASD AO      28mm 23 Feb 2002  9:32  100      PRG   TTL   SPOT      AM:A 
+6542 26  180 4.5 ASD AO      28mm 23 Feb 2002 14:44  100 +2/3 PRG         PART      AM:A 
+6543 27  125 4.0 ASD AO      28mm 23 Feb 2002 14:44  100 +2/3 PRG         PART      AM:A 
+6544 28   60 2.8 ASD AO      28mm 24 Feb 2002 12:13  100 +2/3 PRG   TTL   PART      AM:A 
+6545 29   60 4.0 ASD AO      28mm 24 Feb 2002 12:13  100      PRG   TTL   PART      AM:A 
+6546 30   30 8.0 ASD AO      28mm  6 Mar 2002 13:45  100      P           SPOT      AM:A SPOT DATA: 0.25
+
+6547 31   15  13 ASD AO       8mm  6 Mar 2002 13:47  100      AV          SPOT      AM:A SPOT DATA: 0.0 
+
+6548 32   20  13 ASD AO       8mm  6 Mar 2002 13:47  100      AV          SPOT      AM:A SPOT DATA: 0.0 
+
+6549 33   30  13 ASD AO       8mm  6 Mar 2002 13:48  100      AV          SPOT      AM:A SPOT DATA: -0.25
+
+6550 34   15  13 ASD AO      15mm  6 Mar 2002 13:50  100      AV          SPOT      AM:A SPOT DATA: 0.0 
+
+6551 35   20  11 ASD AO      15mm  6 Mar 2002 13:50  100      AV          SPOT      AM:A SPOT DATA: 0.0 
+
+6552 36   20  11 ASD AO      15mm  6 Mar 2002 13:52  100      AV          SPOT      AM:A SPOT DATA: 0.0 
+
+NO.  FR   TV  AV             LENS        DATE  TIME  ISO  +/- AE-  FLASH METER
+                                                              MODE       -ING
+6553  1   60 4.0 ASD AO      28mm  9 Mar 2002 12:38  100      P     TTL   PART      AM:A 
+6554  2   60 4.0 ASD AO      28mm  9 Mar 2002 12:39  100      P     TTL   PART      AM:A 
+6555  3   60 4.0 ASD AO      28mm  9 Mar 2002 12:39  100      P     TTL   PART      AM:A 
+6556  4   60 4.0 ASD AO      28mm  9 Mar 2002 12:39  100      P     TTL   PART      AM:A 
+6557  5   60 4.0 ASD AO      28mm  9 Mar 2002 12:40  100      P     TTL   PART      AM:A 
+6558  6   60 4.0 ASD AO      28mm  9 Mar 2002 12:40  100      P     TTL   PART      AM:A 
+6559  7   60 4.0 ASD AO      28mm  9 Mar 2002 12:40  100      P     TTL   PART      AM:A 
+6560  8   60 4.0 ASD AO      28mm  9 Mar 2002 12:40  100      P     TTL   PART      AM:A 
+6561  9   60 4.0 ASD AO      28mm  9 Mar 2002 12:40  100      P     TTL   PART      AM:A 
+6562 10   60 4.0 ASD AO      28mm  9 Mar 2002 12:41  100      P     TTL   PART      AM:A 
+6563 11   60 4.0 ASD AO      28mm  9 Mar 2002 12:41  100      P     TTL   PART      AM:A 
+6564 12   60 4.0 ASD AO      28mm  9 Mar 2002 12:42  100      P     TTL   PART      AM:A 
+6565 13  125 4.0 ASD AO      28mm  9 Mar 2002 12:42  100      P           PART      AM:A 
+6566 14   30 6.7 ASD AO      28mm  9 Mar 2002 12:42  100      P           PART      AM:A 
+6567 15   15 5.6 ASD AO      15mm  9 Mar 2002 12:43  100      P           PART      AM:A 
+6568 16   20 6.7 ASD AO      15mm  9 Mar 2002 12:43  100      P           PART      AM:A 
+6569 17   45 9.5 ASD AO      15mm  9 Mar 2002 12:44  100      P           PART      AM:A 
+6570 18   30 8.0 ASD AO      15mm  9 Mar 2002 12:44  100      P           PART      AM:A 
+6571 19   20 6.7 ASD AO      15mm  9 Mar 2002 12:44  100      P           PART      AM:A 
+6572 20   60 2.8 ASD AO      28mm  9 Mar 2002 12:49  100      P     TTL   PART      AM:A 
+6573 21   30 8.0 ASD AO      28mm  9 Mar 2002 12:51  100      P           PART      AM:A 
+6574 22   20 6.7 ASD AO      28mm  9 Mar 2002 16:16  100      P           PART      AM:A 
+6575 23   30 4.0 ASD AO      28mm  9 Mar 2002 16:17  100      TV          PART      AM:A 
+6576 24   30 4.0 ASD AO      28mm  9 Mar 2002 16:17  100      TV          PART      AM:A 
+6577 25   30 6.7 ASD AO      28mm  9 Mar 2002 16:50  100      TV          PART      AM:A 
+6578 26   30 8.0 ASD AO      28mm  9 Mar 2002 16:50  100      TV          PART      AM:A 
+6579 27   60 5.6 ASD AO      28mm  9 Mar 2002 22:39  100      PRG   ATTL  PART      AM:A 
+6580 28   60 4.5 ASD AO      28mm  9 Mar 2002 22:39  100      PRG   ATTL  PART      AM:A 
+6581 29   60 5.6 ASD AO      28mm 10 Mar 2002 10:31  100      PRG   ATTL  PART      AM:A 
+6582 30   60 8.0 ASD AO      28mm 10 Mar 2002 16:21  100      PRG   ATTL  PART      AM:A 
+6583 31   60 5.6 ASD AO      28mm 10 Mar 2002 16:22  100      PRG   ATTL  PART      AM:A 
+6584 32   60 5.6 ASD AO      28mm 10 Mar 2002 16:23  100      PRG   ATTL  PART      AM:A 
+6585 33   60 5.6 ASD AO      28mm 10 Mar 2002 16:31  100      PRG   ATTL  PART      AM:A 
+6586 34   60 5.6 ASD AO      28mm 10 Mar 2002 16:31  100      PRG   ATTL  PART      AM:A 
+6587 35   60 5.6 ASD AO      28mm 10 Mar 2002 17:55  100      PRG   ATTL  PART      AM:A 
+6588 36   60 5.6 ASD AO      28mm 10 Mar 2002 17:56  100      PRG   ATTL  PART      AM:A 
+NO.  FR   TV  AV             LENS        DATE  TIME  ISO  +/- AE-  FLASH METER
+                                                              MODE       -ING
+6589  1   30  16 ASD AO      28mm 17 Mar 2002 14:05  100      TV          PART      AM:A 
+6590  2   30 9.5 ASD AO      28mm 17 Mar 2002 14:05  100      TV          PART      AM:A 
+6591  3   30  16 ASD AO      28mm 17 Mar 2002 14:06  100      TV          PART      AM:A 
+6592  4   30  13 ASD AO      28mm 17 Mar 2002 14:06  100      TV          PART      AM:A 
+6593  5   45  22 ASD AO      28mm 17 Mar 2002 14:07  100      TV          PART      AM:A 
+6594  6   30 9.5 ASD AO      28mm 17 Mar 2002 17:30  100      TV          PART      AM:A 
+6595  7   45 9.5 ASD AO      28mm 17 Mar 2002 17:30  100      TV          PART      AM:A 
+6596  8   45 6.7 ASD AO      28mm 17 Mar 2002 17:38  100      TV          PART      AM:A 
+6597  9   45 8.0 ASD AO      28mm 17 Mar 2002 17:42  100      TV          PART      AM:A 
+6598 10   45 8.0 ASD AO      28mm 17 Mar 2002 17:42  100      TV          PART      AM:A 
+6599 11   20  11 ASD AO       8mm 17 Mar 2002 17:44  100      TV          PART      AM:A 
+6600 12   20  13 ASD AO       8mm 17 Mar 2002 17:45  100      TV          PART      AM:A 
+6601 13   20  13 ASD AO       8mm 17 Mar 2002 17:48  100      TV          PART      AM:A 
+6602 14   20 9.5 ASD AO       8mm 17 Mar 2002 17:50  100      TV          PART      AM:A 
+6603 15   30 6.7 ASD AO      28mm 17 Mar 2002 18:04  100      TV          PART      AM:A 
+6604 16   30 9.5 ASD AO      28mm 17 Mar 2002 18:04  100      TV          PART      AM:A 
+6605 17   60 8.0 ASD AO      28mm 17 Mar 2002 21:11  100      PRG   ATTL  PART      AM:A 
+6606 18   60 6.7 ASD AO      28mm 17 Mar 2002 21:11  100      PRG   ATTL  PART      AM:A 
+6607 19   30 2.8 ASD AO      28mm 23 Mar 2002 17:08  100      TV          PART      AM:A 
+6608 20   20 2.8 ASD AO      28mm 23 Mar 2002 17:09  100      TV          PART      AM:A 
+6609 21   20 2.8 ASD AO      28mm 23 Mar 2002 17:09  100      TV          PART      AM:A 
+6610 22    4 8.0 ASD AO       8mm 23 Mar 2002 17:12  100      TV          PART      AM:A 
+6611 23   30 3.5 ASD AO      28mm 23 Mar 2002 18:09  100      TV          PART      AM:A 
+6612 24  125 2.5 ASD AO      28mm 28 Mar 2002 18:47  100      AV          PART      AM:A 
+6613 25 1000 2.5 ASD AO      28mm 28 Mar 2002 18:47  100      AV          PART      AM:A 
+6614 26  500 2.5 ASD AO      50mm 28 Mar 2002 18:50  100      AV          PART      AM:A 
+6615 27  180 2.5 ASD AO      50mm 28 Mar 2002 18:51  100      AV          PART      AM:A 
+6616 28  250 5.6 ASD AO      50mm 28 Mar 2002 18:53  100      AV          PART      AM:A 
+6617 29   20 5.6 ASD AO      15mm 28 Mar 2002 18:56  100      AV          PART      AM:A 
+6618 30    8 2.8 ASD AO      28mm  5 Apr 2002 19:37  100      AV          PART      AM:A 
+6619 31   60 6.7 ASD AO      28mm  5 Apr 2002 21:38  100      PRG   ATTL  PART      AM:A 
+6620 32   60 6.7 ASD AO      28mm  5 Apr 2002 21:38  100      PRG   ATTL  PART      AM:A 
+6621 33   60 5.6 ASD AO      28mm  5 Apr 2002 21:38  100      PRG   ATTL  PART      AM:A 
+6622 34   60 5.6 ASD AO      28mm  5 Apr 2002 23:04  100      PRG   ATTL  PART      AM:A 
+6623 35   60 5.6 ASD AO      28mm  5 Apr 2002 23:39  100      PRG   ATTL  PART      AM:A 
+6624 36   60 5.6 ASD AO      28mm  5 Apr 2002 23:39  100      PRG   ATTL  PART      AM:A 
+LENS DATA of "t901dmp1.rwd":
+	 0:'--'
+	 1:'28'
+	 2:'50'
+	 3:'135'
+	 4:'35-70'
+	 5:'35-105'
+	 6:'75-200'
+	 7:'100-300'
+	 8:'8'
+	 9:'15'
+	10:'17'
+	11:''
+
+Begin ff
+* Has already been dumped before
+
+NO.  FR   TV  AV             LENS        DATE  TIME  ISO  +/- AE-  FLASH METER
+                                                              MODE       -ING
+6117  0  125  13 ASD AO      15mm 10 Apr 2001 12:24  100      AV          PART      AM:A 
+6118  2  125  13 ASD AO      15mm 10 Apr 2001 12:24  100      AV          PART      AM:A 
+6119  3  125  13 ASD AO      15mm 10 Apr 2001 12:24  100      AV          PART      AM:A 
+6120  4  125  13 ASD AO      15mm 10 Apr 2001 12:26  100      AV          PART      AM:A 
+6121  5  180  13 ASD AO      15mm 10 Apr 2001 12:26  100      AV          PART      AM:A 
+6122  6  125  16 ASD AO      15mm 11 Apr 2001  8:40  100      AV          PART      AM:A 
+6123  7   60  13 ASD AO      15mm 11 Apr 2001  8:40  100      AV          PART      AM:A 
+6124  8   90  13 ASD AO      15mm 11 Apr 2001  8:40  100      AV          PART      AM:A 
+6125  9   90  13 ASD AO      15mm 11 Apr 2001  8:41  100      AV          PART      AM:A 
+6126 10   90  13 ASD AO      15mm 11 Apr 2001  8:41  100      AV          PART      AM:A 
+6127 11  250  13 ASD AO      15mm 11 Apr 2001  8:43  100      AV          PART      AM:A 
+6128 12   60  13 ASD AO      15mm 11 Apr 2001  8:43  100      AV          PART      AM:A 
+6129 13  125  13 ASD AO      15mm 11 Apr 2001  8:44  100      AV          PART      AM:A 
+6130 14  125  13 ASD AO      15mm 11 Apr 2001  8:44  100      AV          PART      AM:A 
+6131 15  180  13 ASD AO      15mm 11 Apr 2001 10:50  100      AV          PART      AM:A 
+6132 16  350  13 ASD AO      15mm 11 Apr 2001 10:51  100      AV          PART      AM:A 
+6133 17  125  13 ASD AO      15mm 11 Apr 2001 10:51  100      AV          PART      AM:A 
+6134 18  125  16 ASD AO      15mm 11 Apr 2001 10:55  100      AV          PART      AM:A 
+6135 19   90  16 ASD AO      15mm 11 Apr 2001 10:58  100      AV          PART      AM:A 
+6136 20  125  16 ASD AO      15mm 11 Apr 2001 10:59  100      AV          PART      AM:A 
+6137 21  250  16 ASD AO      15mm 11 Apr 2001 11:08  100      AV          PART      AM:A 
+6138 22  180  16 ASD AO      15mm 11 Apr 2001 11:09  100      AV          PART      AM:A 
+6139 23   90  16 ASD AO      15mm 11 Apr 2001 11:36  100      AV          PART      AM:A 
+6140 24   60  16 ASD AO      15mm 11 Apr 2001 11:36  100      AV          PART      AM:A 
+6141 25  125  16 ASD AO      15mm 11 Apr 2001 11:41  100      AV          PART      AM:A 
+6142 26   90  13 ASD AO      15mm 11 Apr 2001 15:32  100      AV          PART      AM:A 
+6143 27  125  13 ASD AO      15mm 11 Apr 2001 15:32  100      AV          PART      AM:A 
+6144 28   20 3.5 ASD AO      15mm 11 Apr 2001 15:32  100      AV          PART      AM:A 
+6145 29   30 3.5 ASD AO      15mm 11 Apr 2001 18:07  100      AV          PART      AM:A 
+6146 30   20 3.5 ASD AO      15mm 11 Apr 2001 18:07  100      AV          PART      AM:A 
+6147 31   45 3.5 ASD AO      15mm 11 Apr 2001 18:07  100      AV          PART      AM:A 
+6148 32   15 3.5 ASD AO      15mm 11 Apr 2001 18:08  100      AV          PART      AM:A 
+6149 33   45 3.5 ASD AO      15mm 11 Apr 2001 18:09  100      AV          PART      AM:A 
+6150 34   60 3.5 ASD AO      15mm 11 Apr 2001 18:09  100      AV          PART      AM:A 
+6151 35   20 3.5 ASD AO      15mm 11 Apr 2001 18:11  100      AV          PART      AM:A 
+6152 36   45  13 ASD AO       8mm 12 Apr 2001  6:44  100      AV          PART      AM:A 
+6153 36   60  13 ASD AO       8mm 12 Apr 2001  6:50  100      AV          PART      AM:A 
+6154 36   60  13 ASD AO       8mm 12 Apr 2001  6:50  100      AV          PART      AM:A 
+NO.  FR   TV  AV             LENS        DATE  TIME  ISO  +/- AE-  FLASH METER
+                                                              MODE       -ING
+6155  1  125  13 ASD AO      15mm 12 Apr 2001  7:01  100      AV          PART      AM:A 
+6156  2  180  11 ASD AO      15mm 12 Apr 2001  7:01  100      AV          PART      AM:A 
+6157  3  180  11 ASD AO      15mm 12 Apr 2001  7:01  100      AV          PART      AM:A 
+6158  4  180  11 ASD AO      15mm 12 Apr 2001  7:01  100      AV          PART      AM:A 
+6159  5   90  11 ASD AO      15mm 12 Apr 2001  7:02  100      AV          PART      AM:A 
+6160  6   20  11 ASD AO      15mm 12 Apr 2001 17:39  100      AV          PART      AM:A 
+6161  7  125 8.0 ASD AO      15mm 12 Apr 2001 17:40  100      AV          PART      AM:A 
+6162  8   90 8.0 ASD AO      15mm 12 Apr 2001 17:40  100      AV          PART      AM:A 
+6163  9   45 8.0 ASD AO       8mm 12 Apr 2001 17:50  100      AV          PART      AM:A 
+6164 10   30 8.0 ASD AO       8mm 12 Apr 2001 17:50  100      AV          PART      AM:A 
+6165 11   15 8.0 ASD AO       8mm 12 Apr 2001 17:50  100      AV          PART      AM:A 
+6166 12   15 4.5 ASD AO       8mm 12 Apr 2001 17:51  100      AV          PART      AM:A 
+6167 13   90  13 ASD AO      15mm 13 Apr 2001  8:43  100      AV          PART      AM:A 
+6168 14  350  13 ASD AO       8mm 13 Apr 2001  8:50  100      AV          PART      AM:A 
+6169 15  500  13 ASD AO       8mm 13 Apr 2001  8:51  100      AV          PART      AM:A 
+6170 16  180  13 ASD AO       8mm 13 Apr 2001  8:51  100      AV          PART      AM:A 
+6171 17   60  13 ASD AO      15mm 13 Apr 2001  8:52  100      AV          PART      AM:A 
+6172 18  125  13 ASD AO      15mm 13 Apr 2001  8:54  100      AV          PART      AM:A 
+6173 19   45  13 ASD AO      15mm 13 Apr 2001  8:55  100      AV          PART      AM:A 
+6174 20   45  13 ASD AO      15mm 13 Apr 2001  8:56  100      AV          PART      AM:A 
+6175 21   45  13 ASD AO      15mm 13 Apr 2001  9:04  100      AV          PART      AM:A 
+6176 22   90  13 ASD AO      15mm 13 Apr 2001 10:22  100      AV          PART      AM:A 
+6177 23  250  13 ASD AO       8mm 13 Apr 2001 10:30  100      AV          PART      AM:A 
+6178 24   45  13 ASD AO       8mm 13 Apr 2001 10:31  100      AV          PART      AM:A 
+6179 25   60  13 ASD AO       8mm 13 Apr 2001 10:31  100      AV          PART      AM:A 
+6180 26   60  13 ASD AO       8mm 13 Apr 2001 10:43  100      AV          PART      AM:A 
+6181 27  125  13 ASD AO       8mm 13 Apr 2001 10:44  100      AV          PART      AM:A 
+6182 28  125  13 ASD AO       8mm 13 Apr 2001 10:44  100      AV          PART      AM:A 
+6183 29   90  13 ASD AO       8mm 13 Apr 2001 11:10  100      AV          PART      AM:A 
+6184 30  180  13 ASD AO       8mm 13 Apr 2001 11:10  100      AV          PART      AM:A 
+6185 31  125  13 ASD AO       8mm 13 Apr 2001 11:19  100      AV          PART      AM:A 
+6186 32   60  13 ASD AO       8mm 13 Apr 2001 11:19  100      AV          PART      AM:A 
+6187 33   45  13 ASD AO       8mm 13 Apr 2001 11:19  100      AV          PART      AM:A 
+6188 34   20 4.0 ASD AO       8mm 13 Apr 2001 18:01  100      AV          PART      AM:A 
+6189 35   10 2.8 ASD AO       8mm 13 Apr 2001 18:02  100      AV          PART      AM:A 
+6190 36   15 2.8 ASD AO       8mm 13 Apr 2001 18:02  100      AV          PART      AM:A 
+NO.  FR   TV  AV             LENS        DATE  TIME  ISO  +/- AE-  FLASH METER
+                                                              MODE       -ING
+6191  1   90 6.7 ASD AO       8mm 14 Apr 2001 17:40  100      AV          PART      AM:A 
+6192  2   30 9.5 ASD AO       8mm 14 Apr 2001 17:40  100      AV          PART      AM:A 
+6193  3   30 5.6 ASD AO       8mm 14 Apr 2001 17:51  100      AV          SPOT      AM:A SPOT DATA: -2.5  1.25 1.5 
+
+6194  4   30 5.6 ASD AO       8mm 14 Apr 2001 17:52  100      AV          SPOT      AM:A SPOT DATA: 0.0 
+
+6195  5   60  13 ASD AO       8mm 15 Apr 2001  7:08  100      AV          PART      AM:A 
+6196  6   45  13 ASD AO       8mm 15 Apr 2001  7:08  100      AV          PART      AM:A 
+6197  7   90  13 ASD AO       8mm 15 Apr 2001  7:09  100      AV          PART      AM:A 
+6198  8   60  13 ASD AO       8mm 15 Apr 2001  7:09  100      AV          PART      AM:A 
+6199  9   30  13 ASD AO       8mm 15 Apr 2001 17:55  100      AV          PART      AM:A 
+6200 10   45 9.5 ASD AO       8mm 15 Apr 2001 17:56  100      AV          PART      AM:A 
+6201 11   30 9.5 ASD AO       8mm 15 Apr 2001 17:56  100      AV          PART      AM:A 
+6202 12   45  13 ASD AO       8mm 18 Apr 2001 10:07  100      AV          PART      AM:A 
+6203 13   60  13 ASD AO       8mm 18 Apr 2001 10:07  100      AV          PART      AM:A 
+6204 14  125  13 ASD AO       8mm 18 Apr 2001 10:07  100      AV          PART      AM:A 
+6205 15  180  13 ASD AO       8mm 18 Apr 2001 10:08  100      AV          PART      AM:A 
+6206 16  125  13 ASD AO       8mm 18 Apr 2001 10:09  100      AV          PART      AM:A 
+6207 17  125  13 ASD AO       8mm 18 Apr 2001 10:11  100      AV          PART      AM:A 
+6208 18  180  13 ASD AO       8mm 18 Apr 2001 10:18  100      AV          PART      AM:A 
+6209 19   90  13 ASD AO       8mm 18 Apr 2001 10:19  100      AV          PART      AM:A 
+6210 20  180  13 ASD AO      15mm 19 Apr 2001 11:03  100      AV          PART      AM:A 
+6211 21  125  13 ASD AO       8mm 19 Apr 2001 11:05  100      AV          PART      AM:A 
+6212 22  125  13 ASD AO       8mm 19 Apr 2001 11:05  100      AV          PART      AM:A 
+6213 23  180  13 ASD AO       8mm 19 Apr 2001 11:10  100      AV          PART      AM:A 
+6214 24  125  13 ASD AO       8mm 19 Apr 2001 11:11  100      AV          PART      AM:A 
+6215 25   60  13 ASD AO      15mm 19 Apr 2001 16:50  100      AV          PART      AM:A 
+6216 26   60  13 ASD AO      15mm 19 Apr 2001 16:50  100      AV          PART      AM:A 
+6217 27   60  13 ASD AO      15mm 19 Apr 2001 16:50  100      AV          PART      AM:A 
+6218 28  125  13 ASD AO      15mm 19 Apr 2001 16:50  100      AV          PART      AM:A 
+6219 29   45  13 ASD AO      15mm 19 Apr 2001 16:52  100      AV          PART      AM:A 
+6220 30   15  13 ASD AO      15mm 19 Apr 2001 17:50  100      AV          PART      AM:A 
+6221 31   30 9.5 ASD AO      15mm 19 Apr 2001 17:51  100      AV          PART      AM:A 
+6222 32   15 9.5 ASD AO      15mm 19 Apr 2001 17:51  100      AV          PART      AM:A 
+6223 33   45 6.7 ASD AO      15mm 19 Apr 2001 17:51  100      AV          PART      AM:A 
+6224 34   30 6.7 ASD AO      15mm 19 Apr 2001 17:52  100      AV          PART      AM:A 
+6225 35   45 6.7 ASD AO      15mm 19 Apr 2001 17:56  100      AV          PART      AM:A 
+6226 36   45 4.0 ASD AO      15mm 19 Apr 2001 17:58  100      AV          PART      AM:A 
+NO.  FR   TV  AV             LENS        DATE  TIME  ISO  +/- AE-  FLASH METER
+                                                              MODE       -ING
+6227  1   20 2.8 ASD AO      15mm 19 Apr 2001 18:21   64      AV          PART      AM:A 
+6228  2  125  13 ASD AO      15mm 20 Apr 2001 13:33   64      AV          PART      AM:A 
+6229  3   90  13 ASD AO      15mm 20 Apr 2001 13:35   64      AV          PART      AM:A 
+6230  4   20 3.5 ASD AO      15mm 26 Apr 2001 20:11   64      AV          PART      AM:A 
+6231  5   30 3.5 ASD AO      15mm 26 Apr 2001 20:12   64      AV          PART      AM:A 
+6232  6   15 2.8 ASD AO      15mm 26 Apr 2001 20:12   64      AV          PART      AM:A 
+6233  7 1500 2.0 ASD AO     135mm 26 Apr 2001 20:13   64      AV          PART      AM:A 
+6234  8  180 1.8 ASD AO     135mm 26 Apr 2001 20:13   64      AV          PART      AM:A 
+6235  9   60 4.5 ASD AO      28mm 27 May 2001 22:49   64      PRG   ATTL  PART      AM:A 
+6236 10 4000 1.4 ASD AO      50mm 27 May 2001 23:00   64      AV          PART      AM:A 
+6237 11    4  32 ASD AO      50mm 27 May 2001 23:00   64      AV          PART      AM:A 
+LENS DATA of "t901Mod2.rwd":
+	 0:'--'
+	 1:'28'
+	 2:'50'
+	 3:'135'
+	 4:'35-70'
+	 5:'35-105'
+	 6:'75-200'
+	 7:'100-300'
+	 8:'8'
+	 9:'15'
+	10:'17'
+	11:'7 5'
+
+Begin fe
+* Has already been dumped before
+
+NO.  FR   TV  AV             LENS        DATE  TIME  ISO  +/- AE-  FLASH METER
+                                                              MODE       -ING
+6117  0  125  13 ASD AO      15mm 10 Apr 2001 12:24  100      AV          PART      AM:A 
+6118  2  125  13 ASD AO      15mm 10 Apr 2001 12:24  100      AV          PART      AM:A 
+6119  3  125  13 ASD AO      15mm 10 Apr 2001 12:24  100      AV          PART      AM:A 
+6120  4  125  13 ASD AO      15mm 10 Apr 2001 12:26  100      AV          PART      AM:A 
+6121  5  180  13 ASD AO      15mm 10 Apr 2001 12:26  100      AV          PART      AM:A 
+6122  6  125  16 ASD AO      15mm 11 Apr 2001  8:40  100      AV          PART      AM:A 
+6123  7   60  13 ASD AO      15mm 11 Apr 2001  8:40  100      AV          PART      AM:A 
+6124  8   90  13 ASD AO      15mm 11 Apr 2001  8:40  100      AV          PART      AM:A 
+6125  9   90  13 ASD AO      15mm 11 Apr 2001  8:41  100      AV          PART      AM:A 
+6126 10   90  13 ASD AO      15mm 11 Apr 2001  8:41  100      AV          PART      AM:A 
+6127 11  250  13 ASD AO      15mm 11 Apr 2001  8:43  100      AV          PART      AM:A 
+6128 12   60  13 ASD AO      15mm 11 Apr 2001  8:43  100      AV          PART      AM:A 
+6129 13  125  13 ASD AO      15mm 11 Apr 2001  8:44  100      AV          PART      AM:A 
+6130 14  125  13 ASD AO      15mm 11 Apr 2001  8:44  100      AV          PART      AM:A 
+6131 15  180  13 ASD AO      15mm 11 Apr 2001 10:50  100      AV          PART      AM:A 
+6132 16  350  13 ASD AO      15mm 11 Apr 2001 10:51  100      AV          PART      AM:A 
+6133 17  125  13 ASD AO      15mm 11 Apr 2001 10:51  100      AV          PART      AM:A 
+6134 18  125  16 ASD AO      15mm 11 Apr 2001 10:55  100      AV          PART      AM:A 
+6135 19   90  16 ASD AO      15mm 11 Apr 2001 10:58  100      AV          PART      AM:A 
+6136 20  125  16 ASD AO      15mm 11 Apr 2001 10:59  100      AV          PART      AM:A 
+6137 21  250  16 ASD AO      15mm 11 Apr 2001 11:08  100      AV          PART      AM:A 
+6138 22  180  16 ASD AO      15mm 11 Apr 2001 11:09  100      AV          PART      AM:A 
+6139 23   90  16 ASD AO      15mm 11 Apr 2001 11:36  100      AV          PART      AM:A 
+6140 24   60  16 ASD AO      15mm 11 Apr 2001 11:36  100      AV          PART      AM:A 
+6141 25  125  16 ASD AO      15mm 11 Apr 2001 11:41  100      AV          PART      AM:A 
+6142 26   90  13 ASD AO      15mm 11 Apr 2001 15:32  100      AV          PART      AM:A 
+6143 27  125  13 ASD AO      15mm 11 Apr 2001 15:32  100      AV          PART      AM:A 
+6144 28   20 3.5 ASD AO      15mm 11 Apr 2001 15:32  100      AV          PART      AM:A 
+6145 29   30 3.5 ASD AO      15mm 11 Apr 2001 18:07  100      AV          PART      AM:A 
+6146 30   20 3.5 ASD AO      15mm 11 Apr 2001 18:07  100      AV          PART      AM:A 
+6147 31   45 3.5 ASD AO      15mm 11 Apr 2001 18:07  100      AV          PART      AM:A 
+6148 32   15 3.5 ASD AO      15mm 11 Apr 2001 18:08  100      AV          PART      AM:A 
+6149 33   45 3.5 ASD AO      15mm 11 Apr 2001 18:09  100      AV          PART      AM:A 
+6150 34   60 3.5 ASD AO      15mm 11 Apr 2001 18:09  100      AV          PART      AM:A 
+6151 35   20 3.5 ASD AO      15mm 11 Apr 2001 18:11  100      AV          PART      AM:A 
+6152 36   45  13 ASD AO       8mm 12 Apr 2001  6:44  100      AV          PART      AM:A 
+6153 36   60  13 ASD AO       8mm 12 Apr 2001  6:50  100      AV          PART      AM:A 
+6154 36   60  13 ASD AO       8mm 12 Apr 2001  6:50  100      AV          PART      AM:A 
+NO.  FR   TV  AV             LENS        DATE  TIME  ISO  +/- AE-  FLASH METER
+                                                              MODE       -ING
+6155  1  125  13 ASD AO      15mm 12 Apr 2001  7:01  100      AV          PART      AM:A 
+6156  2  180  11 ASD AO      15mm 12 Apr 2001  7:01  100      AV          PART      AM:A 
+6157  3  180  11 ASD AO      15mm 12 Apr 2001  7:01  100      AV          PART      AM:A 
+6158  4  180  11 ASD AO      15mm 12 Apr 2001  7:01  100      AV          PART      AM:A 
+6159  5   90  11 ASD AO      15mm 12 Apr 2001  7:02  100      AV          PART      AM:A 
+6160  6   20  11 ASD AO      15mm 12 Apr 2001 17:39  100      AV          PART      AM:A 
+6161  7  125 8.0 ASD AO      15mm 12 Apr 2001 17:40  100      AV          PART      AM:A 
+6162  8   90 8.0 ASD AO      15mm 12 Apr 2001 17:40  100      AV          PART      AM:A 
+6163  9   45 8.0 ASD AO       8mm 12 Apr 2001 17:50  100      AV          PART      AM:A 
+6164 10   30 8.0 ASD AO       8mm 12 Apr 2001 17:50  100      AV          PART      AM:A 
+6165 11   15 8.0 ASD AO       8mm 12 Apr 2001 17:50  100      AV          PART      AM:A 
+6166 12   15 4.5 ASD AO       8mm 12 Apr 2001 17:51  100      AV          PART      AM:A 
+6167 13   90  13 ASD AO      15mm 13 Apr 2001  8:43  100      AV          PART      AM:A 
+6168 14  350  13 ASD AO       8mm 13 Apr 2001  8:50  100      AV          PART      AM:A 
+6169 15  500  13 ASD AO       8mm 13 Apr 2001  8:51  100      AV          PART      AM:A 
+6170 16  180  13 ASD AO       8mm 13 Apr 2001  8:51  100      AV          PART      AM:A 
+6171 17   60  13 ASD AO      15mm 13 Apr 2001  8:52  100      AV          PART      AM:A 
+6172 18  125  13 ASD AO      15mm 13 Apr 2001  8:54  100      AV          PART      AM:A 
+6173 19   45  13 ASD AO      15mm 13 Apr 2001  8:55  100      AV          PART      AM:A 
+6174 20   45  13 ASD AO      15mm 13 Apr 2001  8:56  100      AV          PART      AM:A 
+6175 21   45  13 ASD AO      15mm 13 Apr 2001  9:04  100      AV          PART      AM:A 
+6176 22   90  13 ASD AO      15mm 13 Apr 2001 10:22  100      AV          PART      AM:A 
+6177 23  250  13 ASD AO       8mm 13 Apr 2001 10:30  100      AV          PART      AM:A 
+6178 24   45  13 ASD AO       8mm 13 Apr 2001 10:31  100      AV          PART      AM:A 
+6179 25   60  13 ASD AO       8mm 13 Apr 2001 10:31  100      AV          PART      AM:A 
+6180 26   60  13 ASD AO       8mm 13 Apr 2001 10:43  100      AV          PART      AM:A 
+6181 27  125  13 ASD AO       8mm 13 Apr 2001 10:44  100      AV          PART      AM:A 
+6182 28  125  13 ASD AO       8mm 13 Apr 2001 10:44  100      AV          PART      AM:A 
+6183 29   90  13 ASD AO       8mm 13 Apr 2001 11:10  100      AV          PART      AM:A 
+6184 30  180  13 ASD AO       8mm 13 Apr 2001 11:10  100      AV          PART      AM:A 
+6185 31  125  13 ASD AO       8mm 13 Apr 2001 11:19  100      AV          PART      AM:A 
+6186 32   60  13 ASD AO       8mm 13 Apr 2001 11:19  100      AV          PART      AM:A 
+6187 33   45  13 ASD AO       8mm 13 Apr 2001 11:19  100      AV          PART      AM:A 
+6188 34   20 4.0 ASD AO       8mm 13 Apr 2001 18:01  100      AV          PART      AM:A 
+6189 35   10 2.8 ASD AO       8mm 13 Apr 2001 18:02  100      AV          PART      AM:A 
+6190 36   15 2.8 ASD AO       8mm 13 Apr 2001 18:02  100      AV          PART      AM:A 
+NO.  FR   TV  AV             LENS        DATE  TIME  ISO  +/- AE-  FLASH METER
+                                                              MODE       -ING
+6191  1   90 6.7 ASD AO       8mm 14 Apr 2001 17:40  100      AV          PART      AM:A 
+6192  2   30 9.5 ASD AO       8mm 14 Apr 2001 17:40  100      AV          PART      AM:A 
+6193  3   30 5.6 ASD AO       8mm 14 Apr 2001 17:51  100      AV          SPOT      AM:A SPOT DATA: -2.5  1.25 1.5 
+
+6194  4   30 5.6 ASD AO       8mm 14 Apr 2001 17:52  100      AV          SPOT      AM:A SPOT DATA: 0.0 
+
+6195  5   60  13 ASD AO       8mm 15 Apr 2001  7:08  100      AV          PART      AM:A 
+6196  6   45  13 ASD AO       8mm 15 Apr 2001  7:08  100      AV          PART      AM:A 
+6197  7   90  13 ASD AO       8mm 15 Apr 2001  7:09  100      AV          PART      AM:A 
+6198  8   60  13 ASD AO       8mm 15 Apr 2001  7:09  100      AV          PART      AM:A 
+6199  9   30  13 ASD AO       8mm 15 Apr 2001 17:55  100      AV          PART      AM:A 
+6200 10   45 9.5 ASD AO       8mm 15 Apr 2001 17:56  100      AV          PART      AM:A 
+6201 11   30 9.5 ASD AO       8mm 15 Apr 2001 17:56  100      AV          PART      AM:A 
+6202 12   45  13 ASD AO       8mm 18 Apr 2001 10:07  100      AV          PART      AM:A 
+6203 13   60  13 ASD AO       8mm 18 Apr 2001 10:07  100      AV          PART      AM:A 
+6204 14  125  13 ASD AO       8mm 18 Apr 2001 10:07  100      AV          PART      AM:A 
+6205 15  180  13 ASD AO       8mm 18 Apr 2001 10:08  100      AV          PART      AM:A 
+6206 16  125  13 ASD AO       8mm 18 Apr 2001 10:09  100      AV          PART      AM:A 
+6207 17  125  13 ASD AO       8mm 18 Apr 2001 10:11  100      AV          PART      AM:A 
+6208 18  180  13 ASD AO       8mm 18 Apr 2001 10:18  100      AV          PART      AM:A 
+6209 19   90  13 ASD AO       8mm 18 Apr 2001 10:19  100      AV          PART      AM:A 
+6210 20  180  13 ASD AO      15mm 19 Apr 2001 11:03  100      AV          PART      AM:A 
+6211 21  125  13 ASD AO       8mm 19 Apr 2001 11:05  100      AV          PART      AM:A 
+6212 22  125  13 ASD AO       8mm 19 Apr 2001 11:05  100      AV          PART      AM:A 
+6213 23  180  13 ASD AO       8mm 19 Apr 2001 11:10  100      AV          PART      AM:A 
+6214 24  125  13 ASD AO       8mm 19 Apr 2001 11:11  100      AV          PART      AM:A 
+6215 25   60  13 ASD AO      15mm 19 Apr 2001 16:50  100      AV          PART      AM:A 
+6216 26   60  13 ASD AO      15mm 19 Apr 2001 16:50  100      AV          PART      AM:A 
+6217 27   60  13 ASD AO      15mm 19 Apr 2001 16:50  100      AV          PART      AM:A 
+6218 28  125  13 ASD AO      15mm 19 Apr 2001 16:50  100      AV          PART      AM:A 
+6219 29   45  13 ASD AO      15mm 19 Apr 2001 16:52  100      AV          PART      AM:A 
+6220 30   15  13 ASD AO      15mm 19 Apr 2001 17:50  100      AV          PART      AM:A 
+6221 31   30 9.5 ASD AO      15mm 19 Apr 2001 17:51  100      AV          PART      AM:A 
+6222 32   15 9.5 ASD AO      15mm 19 Apr 2001 17:51  100      AV          PART      AM:A 
+6223 33   45 6.7 ASD AO      15mm 19 Apr 2001 17:51  100      AV          PART      AM:A 
+6224 34   30 6.7 ASD AO      15mm 19 Apr 2001 17:52  100      AV          PART      AM:A 
+6225 35   45 6.7 ASD AO      15mm 19 Apr 2001 17:56  100      AV          PART      AM:A 
+6226 36   45 4.0 ASD AO      15mm 19 Apr 2001 17:58  100      AV          PART      AM:A 
+NO.  FR   TV  AV             LENS        DATE  TIME  ISO  +/- AE-  FLASH METER
+                                                              MODE       -ING
+6227  1   20 2.8 ASD AO      15mm 19 Apr 2001 18:21   64      AV          PART      AM:A 
+6228  2  125  13 ASD AO      15mm 20 Apr 2001 13:33   64      AV          PART      AM:A 
+6229  3   90  13 ASD AO      15mm 20 Apr 2001 13:35   64      AV          PART      AM:A 
+6230  4   20 3.5 ASD AO      15mm 26 Apr 2001 20:11   64      AV          PART      AM:A 
+6231  5   30 3.5 ASD AO      15mm 26 Apr 2001 20:12   64      AV          PART      AM:A 
+6232  6   15 2.8 ASD AO      15mm 26 Apr 2001 20:12   64      AV          PART      AM:A 
+6233  7 1500 2.0 ASD AO     135mm 26 Apr 2001 20:13   64      AV          PART      AM:A 
+6234  8  180 1.8 ASD AO     135mm 26 Apr 2001 20:13   64      AV          PART      AM:A 
+6235  9   60 4.5 ASD AO      28mm 27 May 2001 22:49   64      PRG   ATTL  PART      AM:A 
+6236 10 4000 1.4 ASD AO      50mm 27 May 2001 23:00   64      AV          PART      AM:A 
+6237 11    4  32 ASD AO      50mm 27 May 2001 23:00   64      AV          PART      AM:A 
+LENS DATA of "T902054.rwd":
+	 0:'--'
+	 1:'28'
+	 2:'50'
+	 3:'135'
+	 4:'35-70'
+	 5:'35-105'
+	 6:'75-200'
+	 7:'100-300'
+	 8:'8'
+	 9:'15'
+	10:'17'
+	11:''
+
+Begin fe
+
+NO.  FR   TV  AV             LENS        DATE  TIME  ISO  +/- AE-  FLASH METER
+                                                              MODE       -ING
+1901  1   60 4.0 ASD AO      17mm 17 Dez 2001  0:10  100      PRG   ATTL  PART      AM:A 
+1902  2   60 4.0 ASD AO      17mm 17 Dez 2001  0:10  100      PRG   ATTL  PART      AM:A 
+1903  3  0"7 5.6 ASD AO      15mm 20 Dez 2001 21:28  100      AV          PART      AM:A 
+1904  4    2 5.6 ASD AO      15mm 20 Dez 2001 21:28  100      AV          PART      AM:A 
+1905  5    2 5.6 ASD AO      15mm 20 Dez 2001 21:29  100      AV          PART      AM:A 
+1906  6    4 3.5 ASD AO      15mm 20 Dez 2001 21:30  100      AV          PART      AM:A 
+1907  7  1"5 6.7 ASD AO      15mm 20 Dez 2001 21:30  100      AV          PART      AM:A 
+1908  8    2 4.0 ASD AO      15mm 20 Dez 2001 21:31  100      AV          PART      AM:A 
+1909  9    3 4.0 ASD AO      15mm 20 Dez 2001 21:32  100      AV          PART      AM:A 
+1910 10    3 4.0 ASD AO       8mm 20 Dez 2001 21:34  100      AV          PART      AM:A 
+1911 11    3 4.0 ASD AO       8mm 20 Dez 2001 21:35  100      AV          PART      AM:A 
+1912 12  0"7 4.0 ASD AO       8mm 20 Dez 2001 21:35  100      AV          PART      AM:A 
+1913 13    3 4.0 ASD AO       8mm 20 Dez 2001 21:36  100      AV          PART      AM:A 
+1914 14   1" 4.0 ASD AO       8mm 20 Dez 2001 21:37  100      AV          PART      AM:A 
+1915 15    2 4.0 ASD AO       8mm 20 Dez 2001 21:38  100      AV          PART      AM:A 
+1916 16    3 4.0 ASD AO      15mm 20 Dez 2001 21:40  100      AV          PART      AM:A 
+1917 17    3 4.0 ASD AO      15mm 20 Dez 2001 21:40  100      AV          PART      AM:A 
+1918 18   2" 4.0 ASD AO      15mm 20 Dez 2001 21:41  100      AV          PART      AM:A 
+1919 19    2 6.7 ASD AO      15mm 20 Dez 2001 21:43  100      AV          PART      AM:A 
+1920 20  1"5 6.7 ASD AO      15mm 20 Dez 2001 21:45  100      AV          PART      AM:A 
+1921 21   1" 6.7 ASD AO      15mm 20 Dez 2001 21:46  100      AV          PART      AM:A 
+1922 24   45 8.0 ASD AO      15mm 31 Dez 2001 13:16  100      AV          PART      AM:A 
+1923 25   60 8.0 ASD AO      15mm 31 Dez 2001 13:17  100      AV          PART      AM:A 
+1924 26   60 8.0 ASD AO      15mm 31 Dez 2001 13:17  100      AV          PART      AM:A 
+1925 27   20 4.0 ASD AO      15mm 31 Dez 2001 13:50  100      AV          PART      AM:A 
+1926 28    8 4.0 ASD AO      15mm 31 Dez 2001 13:50  100      AV          PART      AM:A 
+1927 29   30 5.6 ASD AO      15mm 31 Dez 2001 13:51  100      AV          PART      AM:A 
+1928 30   60 5.6 ASD AO      15mm 31 Dez 2001 13:51  100      AV          PART      AM:A 
+1929 31   20  11 ASD AO       8mm 31 Dez 2001 13:55  100      AV          PART      AM:A 
+1930 32   10 8.0 ASD AO       8mm 31 Dez 2001 13:56  100      AV          PART      AM:A 
+1931 33   30 8.0 ASD AO       8mm 31 Dez 2001 13:56  100      AV          PART      AM:A 
+1932 34  250 M   MAN AO      28mm  1 Jan 2002 14:49  100      PRG   ATTL  PART      AM:A 
+1933 35   60 SDM MAN SD      28mm  1 Jan 2002 14:49  100      PRG   ATTL  PART      AM:A 
+1934 36   30 2.8 ASD AO      28mm  1 Jan 2002 14:53  100      AV    FEL   PART      AM:A FEL:0.0  EVR:-4.25
+
+LENS DATA of "T902055.rwd":
+	 0:'--'
+	 1:'28'
+	 2:'50'
+	 3:'135'
+	 4:'35-70'
+	 5:'35-105'
+	 6:'75-200'
+	 7:'100-300'
+	 8:'8'
+	 9:'15'
+	10:'17'
+	11:''
+
+Begin fc
+
+NO.  FR   TV  AV             LENS        DATE  TIME  ISO  +/- AE-  FLASH METER
+                                                              MODE       -ING
+1937  1    6 6.7 ASD AO      28mm  5 Jan 2002 16:34   25 -2.0 P           PART      AM:A 
+1938  2    6 6.7 ASD AO      28mm  5 Jan 2002 16:34   50 -1.0 P           PART      AM:A 
+1939  3    3 4.0 ASD AO      28mm  5 Jan 2002 16:35   50 -1.0 P           PART      AM:A 
+1940  4   4"  13 ASD AO      28mm  5 Jan 2002 16:36  200 +1.0 AV          PART      AM:A 
+1941  5    3  13 ASD AO      28mm  5 Jan 2002 16:36  200 +1.0 AV          PART      AM:A 
+1942  6  1"5  13 ASD AO      28mm  5 Jan 2002 16:37  400 +2.0 AV          PART      AM:A 
+1943  7   3" M   MAN AO      28mm  5 Jan 2002 16:37  400 +2.0 AV          PART      AM:A 
+1944  8  1"5 SDA ASD SD      28mm  5 Jan 2002 16:37  400 +2.0 AV          PART      AM:A 
+1945  9   60 5.6 ASD AO      28mm  5 Jan 2002 19:22   32 -5/3 PRG   ATTL  PART      AM:A 
+1946 10  15"  11 ASD AO      28mm  5 Jan 2002 19:22   32 -5/3 AV          PART      AM:A 
+1947 11   60 5.6 ASD AO      28mm  5 Jan 2002 19:23   40 -4/3 PRG   ATTL  PART      AM:A 
+1948 12   60 5.6 ASD AO      28mm  5 Jan 2002 19:24   64 -2/3 PRG   ATTL  PART      AM:A 
+1949 13   60 6.7 ASD AO      28mm  5 Jan 2002 19:24   80 -1/3 PRG   ATTL  PART      AM:A 
+1950 14   60 5.6 ASD AO      28mm  5 Jan 2002 19:25  125 +1/3 PRG   ATTL  PART      AM:A 
+1951 15   60 8.0 ASD AO      28mm  5 Jan 2002 19:25  160 +2/3 PRG   ATTL  PART      AM:A 
+1952 16   60 5.6 ASD AO      28mm  5 Jan 2002 19:26  250 +4/3 PRG   ATTL  PART      AM:A 
+1953 17   60 5.6 ASD AO      28mm  5 Jan 2002 19:26  320 +5/3 PRG   ATTL  PART      AM:A 
+1954 18   30 5.6 ASD AO      28mm  6 Jan 2002 10:41  100      AV    FEL   SPOT      AM:A FEL:0.0  EVR:-7.5 
+
+1955 19   15 5.6 ASD AO      28mm  6 Jan 2002 10:42  100      AV    FEL   SPOT      AM:A FEL:0.0  EVR:-7.75
+
+1956 20   60 5.6 ASD AO      28mm  6 Jan 2002 10:42  100      PRG   ATTL  SPOT      AM:A 
+1957 21   60 5.6 ASD AO      28mm  6 Jan 2002 10:42  100      PRG   ATTL  SPOT      AM:A 
+1958 22   60 5.6 ASD AO      28mm  6 Jan 2002 10:43  100      PRG   ATTL  SPOT      AM:A 
+1959 23  1"5 M   MAN AO      28mm  6 Jan 2002 11:09   16      TV    MAN.  PART      AM:A 
+1960 24  1"5 M   MAN AO      28mm  6 Jan 2002 11:09   20      TV    MAN.  PART      AM:A 
+1961 25  1"5 M   MAN AO      28mm  6 Jan 2002 11:10  500      TV    MAN.  PART      AM:A 
+1962 26  1"5 M   MAN AO      28mm  6 Jan 2002 11:10  640      TV    MAN.  PART      AM:A 
+1963 27    2 SDM MAN SD      28mm  6 Jan 2002 11:12  640      TV          PART      AM:A 
+1964 28    2 SDM MAN SD      28mm  6 Jan 2002 11:13  800      TV    MAN.  PART      AM:A 
+1965 29   20 SDM MAN SD      28mm  6 Jan 2002 12:03 1000      TV          PART      AM:A 
+1966 30   20 M   MAN AO      28mm  6 Jan 2002 15:31 1250      TV          PART      AM:A 
+1967 31   20 M   MAN AO      28mm  6 Jan 2002 15:31 1600      TV          PART      AM:A 
+1968 32    6 M   MAN AO      28mm  6 Jan 2002 15:35 2000      TV          PART      AM:A 
+1969 33    3 M   MAN AO      28mm  6 Jan 2002 15:38 2500      TV          PART      AM:A 
+1970 34    3 M   MAN AO      28mm  6 Jan 2002 15:40 3200      TV          PART      AM:A 
+1971 35    8 M   MAN AO      28mm  6 Jan 2002 15:43 4000      TV          PART      AM:A 
+1972 36    8 3.5 ASD AO      28mm  6 Jan 2002 15:44  100      TV          SPOT      AM:A SPOT DATA: -1.5  -1.25 0.0  1.5  0.5  0.75 0.5  0.25
+
+LENS DATA of "T902056.rwd":
+	 0:'--'
+	 1:'28'
+	 2:'50'
+	 3:'135'
+	 4:'35-70'
+	 5:'35-105'
+	 6:'75-200'
+	 7:'100-300'
+	 8:'8'
+	 9:'15'
+	10:'17'
+	11:''
+
+Begin fe
+
+NO.  FR   TV  AV             LENS        DATE  TIME  ISO  +/- AE-  FLASH METER
+                                                              MODE       -ING
+1973  1   60  16 ASD AO      28mm 13 Apr 2002  8:12  100      PRG   ATTL  PART      AM:A 
+1974  2   60  11 ASD AO      28mm 13 Apr 2002  8:15  100      PRG   ATTL  PART      AM:A 
+1975  3   60 5.6 ASD AO      28mm 13 Apr 2002  8:18  100      PRG   ATTL  PART      AM:A 
+1976  4   60 5.6 ASD AO      28mm 13 Apr 2002  8:18  100      PRG   ATTL  PART      AM:A 
+1977  5   60 5.6 ASD AO      28mm 13 Apr 2002 18:34  100      PRG   ATTL  PART      AM:A 
+1978  6   60 5.6 ASD AO      28mm 13 Apr 2002 18:34  100      PRG   ATTL  PART      AM:A 
+1979  7   60 5.6 ASD AO      28mm 13 Apr 2002 18:35  100      PRG   ATTL  PART      AM:A 
+1980  8   15 2.8 ASD AO      28mm 13 Apr 2002 18:35  100      TV          PART      AM:A 
+1981  9   60 5.6 ASD AO      28mm 13 Apr 2002 18:52  100      PRG   ATTL  PART      AM:A 
+1982 10   60 5.6 ASD AO      28mm 13 Apr 2002 18:52  100      PRG   ATTL  PART      AM:A 
+1983 11   60 5.6 ASD AO      28mm 13 Apr 2002 20:08  100      PRG   ATTL  PART      AM:A 
+1984 12   60 5.6 ASD AO      28mm 13 Apr 2002 20:09  100      PRG   ATTL  PART      AM:A 
+1985 13   60 5.6 ASD AO      28mm 13 Apr 2002 21:02  100      PRG   ATTL  PART      AM:A 
+1986 14   60 4.5 ASD AO      28mm 13 Apr 2002 21:02  100      PRG   ATTL  PART      AM:A 
+1987 15   60 5.6 ASD AO      28mm 13 Apr 2002 21:43  100      PRG   ATTL  PART      AM:A 
+1988 16   60 5.6 ASD AO      28mm 13 Apr 2002 21:44  100      PRG   ATTL  PART      AM:A 
+1989 17   60 8.0 ASD AO      28mm 13 Apr 2002 21:44  100      PRG   ATTL  PART      AM:A 
+1990 18   60 9.5 ASD AO      28mm 14 Apr 2002  0:09  100      PRG   ATTL  PART      AM:A 
+1991 19   60 8.0 ASD AO      28mm 14 Apr 2002  1:27  100      PRG   ATTL  PART      AM:A 
+1992 20   60 6.7 ASD AO      28mm 14 Apr 2002  1:29  100      PRG   ATTL  PART      AM:A 
+1993 21   60  13 ASD AO      28mm 14 Apr 2002  1:30  100      PRG   ATTL  PART      AM:A 
+1994 22  0"7 5.6 ASD AO      28mm 14 Apr 2002  8:42  100      TV          PART      AM:A 
+1995 23  0"7 9.5 ASD AO      28mm 14 Apr 2002  8:43  100      TV          PART      AM:A 
+1996 24   15 2.8 ASD AO      28mm 14 Apr 2002 10:13  100      TV          PART      AM:A 
+1997 25   60  11 ASD AO      28mm 14 Apr 2002 10:17  100      PRG   ATTL  PART      AM:A 
+1998 26   60 5.6 ASD AO      28mm 14 Apr 2002 10:19  100      PRG   ATTL  PART      AM:A 
+1999 27   60 8.0 ASD AO      28mm 14 Apr 2002 10:19  100      PRG   ATTL  PART      AM:A 
+2000 28   60 5.6 ASD AO      28mm 14 Apr 2002 10:27  100      PRG   ATTL  PART      AM:A 
+2001 29   60 5.6 ASD AO      28mm 14 Apr 2002 10:27  100      PRG   ATTL  PART      AM:A 
+2002 30   60 5.6 ASD AO      28mm 14 Apr 2002 10:27  100      PRG   ATTL  PART      AM:A 
+2003 31   60 5.6 ASD AO      28mm 14 Apr 2002 10:52  100      PRG   ATTL  PART      AM:A 
+2004 32   60 5.6 ASD AO      28mm 14 Apr 2002 10:52  100      PRG   ATTL  PART      AM:A 
+2005 33   60 5.6 ASD AO      28mm 14 Apr 2002 10:54  100      PRG   ATTL  PART      AM:A 
+2006 34   60 5.6 ASD AO      28mm 15 Apr 2002 20:40  100      PRG   ATTL  PART      AM:A 
+2007 35   60 5.6 ASD AO      28mm 17 Apr 2002 13:34  100      PRG   ATTL  PART      AM:A 
+2008 36   30 4.5 ASD AO      28mm 17 Apr 2002 13:34  100      TV          PART      AM:A 
+LENS DATA of "DMB.RWD":
+	 0:'--'
+	 1:'28'
+	 2:'50'
+	 3:'135'
+	 4:'35-70'
+	 5:'35-105'
+	 6:'75-200'
+	 7:'100-300'
+	 8:'8'
+	 9:'15'
+	10:'17'
+	11:''
+
+Begin ff
+* Has already been dumped before
+
+NO.  FR   TV  AV             LENS        DATE  TIME  ISO  +/- AE-  FLASH METER
+                                                              MODE       -ING
+6117  0  125  13 ASD AO      15mm 10 Apr 2001 12:24  100      AV          PART      AM:A 
+6118  2  125  13 ASD AO      15mm 10 Apr 2001 12:24  100      AV          PART      AM:A 
+6119  3  125  13 ASD AO      15mm 10 Apr 2001 12:24  100      AV          PART      AM:A 
+6120  4  125  13 ASD AO      15mm 10 Apr 2001 12:26  100      AV          PART      AM:A 
+6121  5  180  13 ASD AO      15mm 10 Apr 2001 12:26  100      AV          PART      AM:A 
+6122  6  125  16 ASD AO      15mm 11 Apr 2001  8:40  100      AV          PART      AM:A 
+6123  7   60  13 ASD AO      15mm 11 Apr 2001  8:40  100      AV          PART      AM:A 
+6124  8   90  13 ASD AO      15mm 11 Apr 2001  8:40  100      AV          PART      AM:A 
+6125  9   90  13 ASD AO      15mm 11 Apr 2001  8:41  100      AV          PART      AM:A 
+6126 10   90  13 ASD AO      15mm 11 Apr 2001  8:41  100      AV          PART      AM:A 
+6127 11  250  13 ASD AO      15mm 11 Apr 2001  8:43  100      AV          PART      AM:A 
+6128 12   60  13 ASD AO      15mm 11 Apr 2001  8:43  100      AV          PART      AM:A 
+6129 13  125  13 ASD AO      15mm 11 Apr 2001  8:44  100      AV          PART      AM:A 
+6130 14  125  13 ASD AO      15mm 11 Apr 2001  8:44  100      AV          PART      AM:A 
+6131 15  180  13 ASD AO      15mm 11 Apr 2001 10:50  100      AV          PART      AM:A 
+6132 16  350  13 ASD AO      15mm 11 Apr 2001 10:51  100      AV          PART      AM:A 
+6133 17  125  13 ASD AO      15mm 11 Apr 2001 10:51  100      AV          PART      AM:A 
+6134 18  125  16 ASD AO      15mm 11 Apr 2001 10:55  100      AV          PART      AM:A 
+6135 19   90  16 ASD AO      15mm 11 Apr 2001 10:58  100      AV          PART      AM:A 
+6136 20  125  16 ASD AO      15mm 11 Apr 2001 10:59  100      AV          PART      AM:A 
+6137 21  250  16 ASD AO      15mm 11 Apr 2001 11:08  100      AV          PART      AM:A 
+6138 22  180  16 ASD AO      15mm 11 Apr 2001 11:09  100      AV          PART      AM:A 
+6139 23   90  16 ASD AO      15mm 11 Apr 2001 11:36  100      AV          PART      AM:A 
+6140 24   60  16 ASD AO      15mm 11 Apr 2001 11:36  100      AV          PART      AM:A 
+6141 25  125  16 ASD AO      15mm 11 Apr 2001 11:41  100      AV          PART      AM:A 
+6142 26   90  13 ASD AO      15mm 11 Apr 2001 15:32  100      AV          PART      AM:A 
+6143 27  125  13 ASD AO      15mm 11 Apr 2001 15:32  100      AV          PART      AM:A 
+6144 28   20 3.5 ASD AO      15mm 11 Apr 2001 15:32  100      AV          PART      AM:A 
+6145 29   30 3.5 ASD AO      15mm 11 Apr 2001 18:07  100      AV          PART      AM:A 
+6146 30   20 3.5 ASD AO      15mm 11 Apr 2001 18:07  100      AV          PART      AM:A 
+6147 31   45 3.5 ASD AO      15mm 11 Apr 2001 18:07  100      AV          PART      AM:A 
+6148 32   15 3.5 ASD AO      15mm 11 Apr 2001 18:08  100      AV          PART      AM:A 
+6149 33   45 3.5 ASD AO      15mm 11 Apr 2001 18:09  100      AV          PART      AM:A 
+6150 34   60 3.5 ASD AO      15mm 11 Apr 2001 18:09  100      AV          PART      AM:A 
+6151 35   20 3.5 ASD AO      15mm 11 Apr 2001 18:11  100      AV          PART      AM:A 
+6152 36   45  13 ASD AO       8mm 12 Apr 2001  6:44  100      AV          PART      AM:A 
+6153 36   60  13 ASD AO       8mm 12 Apr 2001  6:50  100      AV          PART      AM:A 
+6154 36   60  13 ASD AO       8mm 12 Apr 2001  6:50  100      AV          PART      AM:A 
+NO.  FR   TV  AV             LENS        DATE  TIME  ISO  +/- AE-  FLASH METER
+                                                              MODE       -ING
+6155  1  125  13 ASD AO      15mm 12 Apr 2001  7:01  100      AV          PART      AM:A 
+6156  2  180  11 ASD AO      15mm 12 Apr 2001  7:01  100      AV          PART      AM:A 
+6157  3  180  11 ASD AO      15mm 12 Apr 2001  7:01  100      AV          PART      AM:A 
+6158  4  180  11 ASD AO      15mm 12 Apr 2001  7:01  100      AV          PART      AM:A 
+6159  5   90  11 ASD AO      15mm 12 Apr 2001  7:02  100      AV          PART      AM:A 
+6160  6   20  11 ASD AO      15mm 12 Apr 2001 17:39  100      AV          PART      AM:A 
+6161  7  125 8.0 ASD AO      15mm 12 Apr 2001 17:40  100      AV          PART      AM:A 
+6162  8   90 8.0 ASD AO      15mm 12 Apr 2001 17:40  100      AV          PART      AM:A 
+6163  9   45 8.0 ASD AO       8mm 12 Apr 2001 17:50  100      AV          PART      AM:A 
+6164 10   30 8.0 ASD AO       8mm 12 Apr 2001 17:50  100      AV          PART      AM:A 
+6165 11   15 8.0 ASD AO       8mm 12 Apr 2001 17:50  100      AV          PART      AM:A 
+6166 12   15 4.5 ASD AO       8mm 12 Apr 2001 17:51  100      AV          PART      AM:A 
+6167 13   90  13 ASD AO      15mm 13 Apr 2001  8:43  100      AV          PART      AM:A 
+6168 14  350  13 ASD AO       8mm 13 Apr 2001  8:50  100      AV          PART      AM:A 
+6169 15  500  13 ASD AO       8mm 13 Apr 2001  8:51  100      AV          PART      AM:A 
+6170 16  180  13 ASD AO       8mm 13 Apr 2001  8:51  100      AV          PART      AM:A 
+6171 17   60  13 ASD AO      15mm 13 Apr 2001  8:52  100      AV          PART      AM:A 
+6172 18  125  13 ASD AO      15mm 13 Apr 2001  8:54  100      AV          PART      AM:A 
+6173 19   45  13 ASD AO      15mm 13 Apr 2001  8:55  100      AV          PART      AM:A 
+6174 20   45  13 ASD AO      15mm 13 Apr 2001  8:56  100      AV          PART      AM:A 
+6175 21   45  13 ASD AO      15mm 13 Apr 2001  9:04  100      AV          PART      AM:A 
+6176 22   90  13 ASD AO      15mm 13 Apr 2001 10:22  100      AV          PART      AM:A 
+6177 23  250  13 ASD AO       8mm 13 Apr 2001 10:30  100      AV          PART      AM:A 
+6178 24   45  13 ASD AO       8mm 13 Apr 2001 10:31  100      AV          PART      AM:A 
+6179 25   60  13 ASD AO       8mm 13 Apr 2001 10:31  100      AV          PART      AM:A 
+6180 26   60  13 ASD AO       8mm 13 Apr 2001 10:43  100      AV          PART      AM:A 
+6181 27  125  13 ASD AO       8mm 13 Apr 2001 10:44  100      AV          PART      AM:A 
+6182 28  125  13 ASD AO       8mm 13 Apr 2001 10:44  100      AV          PART      AM:A 
+6183 29   90  13 ASD AO       8mm 13 Apr 2001 11:10  100      AV          PART      AM:A 
+6184 30  180  13 ASD AO       8mm 13 Apr 2001 11:10  100      AV          PART      AM:A 
+6185 31  125  13 ASD AO       8mm 13 Apr 2001 11:19  100      AV          PART      AM:A 
+6186 32   60  13 ASD AO       8mm 13 Apr 2001 11:19  100      AV          PART      AM:A 
+6187 33   45  13 ASD AO       8mm 13 Apr 2001 11:19  100      AV          PART      AM:A 
+6188 34   20 4.0 ASD AO       8mm 13 Apr 2001 18:01  100      AV          PART      AM:A 
+6189 35   10 2.8 ASD AO       8mm 13 Apr 2001 18:02  100      AV          PART      AM:A 
+6190 36   15 2.8 ASD AO       8mm 13 Apr 2001 18:02  100      AV          PART      AM:A 
+NO.  FR   TV  AV             LENS        DATE  TIME  ISO  +/- AE-  FLASH METER
+                                                              MODE       -ING
+6191  1   90 6.7 ASD AO       8mm 14 Apr 2001 17:40  100      AV          PART      AM:A 
+6192  2   30 9.5 ASD AO       8mm 14 Apr 2001 17:40  100      AV          PART      AM:A 
+6193  3   30 5.6 ASD AO       8mm 14 Apr 2001 17:51  100      AV          SPOT      AM:A SPOT DATA: -2.5  1.25 1.5 
+
+6194  4   30 5.6 ASD AO       8mm 14 Apr 2001 17:52  100      AV          SPOT      AM:A SPOT DATA: 0.0 
+
+6195  5   60  13 ASD AO       8mm 15 Apr 2001  7:08  100      AV          PART      AM:A 
+6196  6   45  13 ASD AO       8mm 15 Apr 2001  7:08  100      AV          PART      AM:A 
+6197  7   90  13 ASD AO       8mm 15 Apr 2001  7:09  100      AV          PART      AM:A 
+6198  8   60  13 ASD AO       8mm 15 Apr 2001  7:09  100      AV          PART      AM:A 
+6199  9   30  13 ASD AO       8mm 15 Apr 2001 17:55  100      AV          PART      AM:A 
+6200 10   45 9.5 ASD AO       8mm 15 Apr 2001 17:56  100      AV          PART      AM:A 
+6201 11   30 9.5 ASD AO       8mm 15 Apr 2001 17:56  100      AV          PART      AM:A 
+6202 12   45  13 ASD AO       8mm 18 Apr 2001 10:07  100      AV          PART      AM:A 
+6203 13   60  13 ASD AO       8mm 18 Apr 2001 10:07  100      AV          PART      AM:A 
+6204 14  125  13 ASD AO       8mm 18 Apr 2001 10:07  100      AV          PART      AM:A 
+6205 15  180  13 ASD AO       8mm 18 Apr 2001 10:08  100      AV          PART      AM:A 
+6206 16  125  13 ASD AO       8mm 18 Apr 2001 10:09  100      AV          PART      AM:A 
+6207 17  125  13 ASD AO       8mm 18 Apr 2001 10:11  100      AV          PART      AM:A 
+6208 18  180  13 ASD AO       8mm 18 Apr 2001 10:18  100      AV          PART      AM:A 
+6209 19   90  13 ASD AO       8mm 18 Apr 2001 10:19  100      AV          PART      AM:A 
+6210 20  180  13 ASD AO      15mm 19 Apr 2001 11:03  100      AV          PART      AM:A 
+6211 21  125  13 ASD AO       8mm 19 Apr 2001 11:05  100      AV          PART      AM:A 
+6212 22  125  13 ASD AO       8mm 19 Apr 2001 11:05  100      AV          PART      AM:A 
+6213 23  180  13 ASD AO       8mm 19 Apr 2001 11:10  100      AV          PART      AM:A 
+6214 24  125  13 ASD AO       8mm 19 Apr 2001 11:11  100      AV          PART      AM:A 
+6215 25   60  13 ASD AO      15mm 19 Apr 2001 16:50  100      AV          PART      AM:A 
+6216 26   60  13 ASD AO      15mm 19 Apr 2001 16:50  100      AV          PART      AM:A 
+6217 27   60  13 ASD AO      15mm 19 Apr 2001 16:50  100      AV          PART      AM:A 
+6218 28  125  13 ASD AO      15mm 19 Apr 2001 16:50  100      AV          PART      AM:A 
+6219 29   45  13 ASD AO      15mm 19 Apr 2001 16:52  100      AV          PART      AM:A 
+6220 30   15  13 ASD AO      15mm 19 Apr 2001 17:50  100      AV          PART      AM:A 
+6221 31   30 9.5 ASD AO      15mm 19 Apr 2001 17:51  100      AV          PART      AM:A 
+6222 32   15 9.5 ASD AO      15mm 19 Apr 2001 17:51  100      AV          PART      AM:A 
+6223 33   45 6.7 ASD AO      15mm 19 Apr 2001 17:51  100      AV          PART      AM:A 
+6224 34   30 6.7 ASD AO      15mm 19 Apr 2001 17:52  100      AV          PART      AM:A 
+6225 35   45 6.7 ASD AO      15mm 19 Apr 2001 17:56  100      AV          PART      AM:A 
+6226 36   45 4.0 ASD AO      15mm 19 Apr 2001 17:58  100      AV          PART      AM:A 
+NO.  FR   TV  AV             LENS        DATE  TIME  ISO  +/- AE-  FLASH METER
+                                                              MODE       -ING
+6227  1   20 2.8 ASD AO      15mm 19 Apr 2001 18:21   64      AV          PART      AM:A 
+6228  2  125  13 ASD AO      15mm 20 Apr 2001 13:33   64      AV          PART      AM:A 
+6229  3   90  13 ASD AO      15mm 20 Apr 2001 13:35   64      AV          PART      AM:A 
+6230  4   20 3.5 ASD AO      15mm 26 Apr 2001 20:11   64      AV          PART      AM:A 
+6231  5   30 3.5 ASD AO      15mm 26 Apr 2001 20:12   64      AV          PART      AM:A 
+6232  6   15 2.8 ASD AO      15mm 26 Apr 2001 20:12   64      AV          PART      AM:A 
+6233  7 1500 2.0 ASD AO     135mm 26 Apr 2001 20:13   64      AV          PART      AM:A 
+6234  8  180 1.8 ASD AO     135mm 26 Apr 2001 20:13   64      AV          PART      AM:A 
+6235  9   60 4.5 ASD AO      28mm 27 May 2001 22:49   64      PRG   ATTL  PART      AM:A 
+6236 10 4000 1.4 ASD AO      50mm 27 May 2001 23:00   64      AV          PART      AM:A 
+6237 11    4  32 ASD AO      50mm 27 May 2001 23:00   64      AV          PART      AM:A 
+LENS DATA of "T901.RWD":
+	 0:'--'
+	 1:'28'
+	 2:'50'
+	 3:'135'
+	 4:'35-70'
+	 5:'35-105'
+	 6:'75-200'
+	 7:'100-300'
+	 8:'8'
+	 9:'15'
+	10:'17'
+	11:'80-200'
+
+Begin fe
+* Has already been dumped before
+
+NO.  FR   TV  AV             LENS        DATE  TIME  ISO  +/- AE-  FLASH METER
+                                                              MODE       -ING
+6117  0  125  13 ASD AO      15mm 10 Apr 2001 12:24  100      AV          PART      AM:A 
+6118  2  125  13 ASD AO      15mm 10 Apr 2001 12:24  100      AV          PART      AM:A 
+6119  3  125  13 ASD AO      15mm 10 Apr 2001 12:24  100      AV          PART      AM:A 
+6120  4  125  13 ASD AO      15mm 10 Apr 2001 12:26  100      AV          PART      AM:A 
+6121  5  180  13 ASD AO      15mm 10 Apr 2001 12:26  100      AV          PART      AM:A 
+6122  6  125  16 ASD AO      15mm 11 Apr 2001  8:40  100      AV          PART      AM:A 
+6123  7   60  13 ASD AO      15mm 11 Apr 2001  8:40  100      AV          PART      AM:A 
+6124  8   90  13 ASD AO      15mm 11 Apr 2001  8:40  100      AV          PART      AM:A 
+6125  9   90  13 ASD AO      15mm 11 Apr 2001  8:41  100      AV          PART      AM:A 
+6126 10   90  13 ASD AO      15mm 11 Apr 2001  8:41  100      AV          PART      AM:A 
+6127 11  250  13 ASD AO      15mm 11 Apr 2001  8:43  100      AV          PART      AM:A 
+6128 12   60  13 ASD AO      15mm 11 Apr 2001  8:43  100      AV          PART      AM:A 
+6129 13  125  13 ASD AO      15mm 11 Apr 2001  8:44  100      AV          PART      AM:A 
+6130 14  125  13 ASD AO      15mm 11 Apr 2001  8:44  100      AV          PART      AM:A 
+6131 15  180  13 ASD AO      15mm 11 Apr 2001 10:50  100      AV          PART      AM:A 
+6132 16  350  13 ASD AO      15mm 11 Apr 2001 10:51  100      AV          PART      AM:A 
+6133 17  125  13 ASD AO      15mm 11 Apr 2001 10:51  100      AV          PART      AM:A 
+6134 18  125  16 ASD AO      15mm 11 Apr 2001 10:55  100      AV          PART      AM:A 
+6135 19   90  16 ASD AO      15mm 11 Apr 2001 10:58  100      AV          PART      AM:A 
+6136 20  125  16 ASD AO      15mm 11 Apr 2001 10:59  100      AV          PART      AM:A 
+6137 21  250  16 ASD AO      15mm 11 Apr 2001 11:08  100      AV          PART      AM:A 
+6138 22  180  16 ASD AO      15mm 11 Apr 2001 11:09  100      AV          PART      AM:A 
+6139 23   90  16 ASD AO      15mm 11 Apr 2001 11:36  100      AV          PART      AM:A 
+6140 24   60  16 ASD AO      15mm 11 Apr 2001 11:36  100      AV          PART      AM:A 
+6141 25  125  16 ASD AO      15mm 11 Apr 2001 11:41  100      AV          PART      AM:A 
+6142 26   90  13 ASD AO      15mm 11 Apr 2001 15:32  100      AV          PART      AM:A 
+6143 27  125  13 ASD AO      15mm 11 Apr 2001 15:32  100      AV          PART      AM:A 
+6144 28   20 3.5 ASD AO      15mm 11 Apr 2001 15:32  100      AV          PART      AM:A 
+6145 29   30 3.5 ASD AO      15mm 11 Apr 2001 18:07  100      AV          PART      AM:A 
+6146 30   20 3.5 ASD AO      15mm 11 Apr 2001 18:07  100      AV          PART      AM:A 
+6147 31   45 3.5 ASD AO      15mm 11 Apr 2001 18:07  100      AV          PART      AM:A 
+6148 32   15 3.5 ASD AO      15mm 11 Apr 2001 18:08  100      AV          PART      AM:A 
+6149 33   45 3.5 ASD AO      15mm 11 Apr 2001 18:09  100      AV          PART      AM:A 
+6150 34   60 3.5 ASD AO      15mm 11 Apr 2001 18:09  100      AV          PART      AM:A 
+6151 35   20 3.5 ASD AO      15mm 11 Apr 2001 18:11  100      AV          PART      AM:A 
+6152 36   45  13 ASD AO       8mm 12 Apr 2001  6:44  100      AV          PART      AM:A 
+6153 36   60  13 ASD AO       8mm 12 Apr 2001  6:50  100      AV          PART      AM:A 
+6154 36   60  13 ASD AO       8mm 12 Apr 2001  6:50  100      AV          PART      AM:A 
+NO.  FR   TV  AV             LENS        DATE  TIME  ISO  +/- AE-  FLASH METER
+                                                              MODE       -ING
+6155  1  125  13 ASD AO      15mm 12 Apr 2001  7:01  100      AV          PART      AM:A 
+6156  2  180  11 ASD AO      15mm 12 Apr 2001  7:01  100      AV          PART      AM:A 
+6157  3  180  11 ASD AO      15mm 12 Apr 2001  7:01  100      AV          PART      AM:A 
+6158  4  180  11 ASD AO      15mm 12 Apr 2001  7:01  100      AV          PART      AM:A 
+6159  5   90  11 ASD AO      15mm 12 Apr 2001  7:02  100      AV          PART      AM:A 
+6160  6   20  11 ASD AO      15mm 12 Apr 2001 17:39  100      AV          PART      AM:A 
+6161  7  125 8.0 ASD AO      15mm 12 Apr 2001 17:40  100      AV          PART      AM:A 
+6162  8   90 8.0 ASD AO      15mm 12 Apr 2001 17:40  100      AV          PART      AM:A 
+6163  9   45 8.0 ASD AO       8mm 12 Apr 2001 17:50  100      AV          PART      AM:A 
+6164 10   30 8.0 ASD AO       8mm 12 Apr 2001 17:50  100      AV          PART      AM:A 
+6165 11   15 8.0 ASD AO       8mm 12 Apr 2001 17:50  100      AV          PART      AM:A 
+6166 12   15 4.5 ASD AO       8mm 12 Apr 2001 17:51  100      AV          PART      AM:A 
+6167 13   90  13 ASD AO      15mm 13 Apr 2001  8:43  100      AV          PART      AM:A 
+6168 14  350  13 ASD AO       8mm 13 Apr 2001  8:50  100      AV          PART      AM:A 
+6169 15  500  13 ASD AO       8mm 13 Apr 2001  8:51  100      AV          PART      AM:A 
+6170 16  180  13 ASD AO       8mm 13 Apr 2001  8:51  100      AV          PART      AM:A 
+6171 17   60  13 ASD AO      15mm 13 Apr 2001  8:52  100      AV          PART      AM:A 
+6172 18  125  13 ASD AO      15mm 13 Apr 2001  8:54  100      AV          PART      AM:A 
+6173 19   45  13 ASD AO      15mm 13 Apr 2001  8:55  100      AV          PART      AM:A 
+6174 20   45  13 ASD AO      15mm 13 Apr 2001  8:56  100      AV          PART      AM:A 
+6175 21   45  13 ASD AO      15mm 13 Apr 2001  9:04  100      AV          PART      AM:A 
+6176 22   90  13 ASD AO      15mm 13 Apr 2001 10:22  100      AV          PART      AM:A 
+6177 23  250  13 ASD AO       8mm 13 Apr 2001 10:30  100      AV          PART      AM:A 
+6178 24   45  13 ASD AO       8mm 13 Apr 2001 10:31  100      AV          PART      AM:A 
+6179 25   60  13 ASD AO       8mm 13 Apr 2001 10:31  100      AV          PART      AM:A 
+6180 26   60  13 ASD AO       8mm 13 Apr 2001 10:43  100      AV          PART      AM:A 
+6181 27  125  13 ASD AO       8mm 13 Apr 2001 10:44  100      AV          PART      AM:A 
+6182 28  125  13 ASD AO       8mm 13 Apr 2001 10:44  100      AV          PART      AM:A 
+6183 29   90  13 ASD AO       8mm 13 Apr 2001 11:10  100      AV          PART      AM:A 
+6184 30  180  13 ASD AO       8mm 13 Apr 2001 11:10  100      AV          PART      AM:A 
+6185 31  125  13 ASD AO       8mm 13 Apr 2001 11:19  100      AV          PART      AM:A 
+6186 32   60  13 ASD AO       8mm 13 Apr 2001 11:19  100      AV          PART      AM:A 
+6187 33   45  13 ASD AO       8mm 13 Apr 2001 11:19  100      AV          PART      AM:A 
+6188 34   20 4.0 ASD AO       8mm 13 Apr 2001 18:01  100      AV          PART      AM:A 
+6189 35   10 2.8 ASD AO       8mm 13 Apr 2001 18:02  100      AV          PART      AM:A 
+6190 36   15 2.8 ASD AO       8mm 13 Apr 2001 18:02  100      AV          PART      AM:A 
+NO.  FR   TV  AV             LENS        DATE  TIME  ISO  +/- AE-  FLASH METER
+                                                              MODE       -ING
+6191  1   90 6.7 ASD AO       8mm 14 Apr 2001 17:40  100      AV          PART      AM:A 
+6192  2   30 9.5 ASD AO       8mm 14 Apr 2001 17:40  100      AV          PART      AM:A 
+6193  3   30 5.6 ASD AO       8mm 14 Apr 2001 17:51  100      AV          SPOT      AM:A SPOT DATA: -2.5  1.25 1.5 
+
+6194  4   30 5.6 ASD AO       8mm 14 Apr 2001 17:52  100      AV          SPOT      AM:A SPOT DATA: 0.0 
+
+6195  5   60  13 ASD AO       8mm 15 Apr 2001  7:08  100      AV          PART      AM:A 
+6196  6   45  13 ASD AO       8mm 15 Apr 2001  7:08  100      AV          PART      AM:A 
+6197  7   90  13 ASD AO       8mm 15 Apr 2001  7:09  100      AV          PART      AM:A 
+6198  8   60  13 ASD AO       8mm 15 Apr 2001  7:09  100      AV          PART      AM:A 
+6199  9   30  13 ASD AO       8mm 15 Apr 2001 17:55  100      AV          PART      AM:A 
+6200 10   45 9.5 ASD AO       8mm 15 Apr 2001 17:56  100      AV          PART      AM:A 
+6201 11   30 9.5 ASD AO       8mm 15 Apr 2001 17:56  100      AV          PART      AM:A 
+6202 12   45  13 ASD AO       8mm 18 Apr 2001 10:07  100      AV          PART      AM:A 
+6203 13   60  13 ASD AO       8mm 18 Apr 2001 10:07  100      AV          PART      AM:A 
+6204 14  125  13 ASD AO       8mm 18 Apr 2001 10:07  100      AV          PART      AM:A 
+6205 15  180  13 ASD AO       8mm 18 Apr 2001 10:08  100      AV          PART      AM:A 
+6206 16  125  13 ASD AO       8mm 18 Apr 2001 10:09  100      AV          PART      AM:A 
+6207 17  125  13 ASD AO       8mm 18 Apr 2001 10:11  100      AV          PART      AM:A 
+6208 18  180  13 ASD AO       8mm 18 Apr 2001 10:18  100      AV          PART      AM:A 
+6209 19   90  13 ASD AO       8mm 18 Apr 2001 10:19  100      AV          PART      AM:A 
+6210 20  180  13 ASD AO      15mm 19 Apr 2001 11:03  100      AV          PART      AM:A 
+6211 21  125  13 ASD AO       8mm 19 Apr 2001 11:05  100      AV          PART      AM:A 
+6212 22  125  13 ASD AO       8mm 19 Apr 2001 11:05  100      AV          PART      AM:A 
+6213 23  180  13 ASD AO       8mm 19 Apr 2001 11:10  100      AV          PART      AM:A 
+6214 24  125  13 ASD AO       8mm 19 Apr 2001 11:11  100      AV          PART      AM:A 
+6215 25   60  13 ASD AO      15mm 19 Apr 2001 16:50  100      AV          PART      AM:A 
+6216 26   60  13 ASD AO      15mm 19 Apr 2001 16:50  100      AV          PART      AM:A 
+6217 27   60  13 ASD AO      15mm 19 Apr 2001 16:50  100      AV          PART      AM:A 
+6218 28  125  13 ASD AO      15mm 19 Apr 2001 16:50  100      AV          PART      AM:A 
+6219 29   45  13 ASD AO      15mm 19 Apr 2001 16:52  100      AV          PART      AM:A 
+6220 30   15  13 ASD AO      15mm 19 Apr 2001 17:50  100      AV          PART      AM:A 
+6221 31   30 9.5 ASD AO      15mm 19 Apr 2001 17:51  100      AV          PART      AM:A 
+6222 32   15 9.5 ASD AO      15mm 19 Apr 2001 17:51  100      AV          PART      AM:A 
+6223 33   45 6.7 ASD AO      15mm 19 Apr 2001 17:51  100      AV          PART      AM:A 
+6224 34   30 6.7 ASD AO      15mm 19 Apr 2001 17:52  100      AV          PART      AM:A 
+6225 35   45 6.7 ASD AO      15mm 19 Apr 2001 17:56  100      AV          PART      AM:A 
+6226 36   45 4.0 ASD AO      15mm 19 Apr 2001 17:58  100      AV          PART      AM:A 
+NO.  FR   TV  AV             LENS        DATE  TIME  ISO  +/- AE-  FLASH METER
+                                                              MODE       -ING
+6227  1   20 2.8 ASD AO      15mm 19 Apr 2001 18:21   64      AV          PART      AM:A 
+6228  2  125  13 ASD AO      15mm 20 Apr 2001 13:33   64      AV          PART      AM:A 
+6229  3   90  13 ASD AO      15mm 20 Apr 2001 13:35   64      AV          PART      AM:A 
+6230  4   20 3.5 ASD AO      15mm 26 Apr 2001 20:11   64      AV          PART      AM:A 
+6231  5   30 3.5 ASD AO      15mm 26 Apr 2001 20:12   64      AV          PART      AM:A 
+6232  6   15 2.8 ASD AO      15mm 26 Apr 2001 20:12   64      AV          PART      AM:A 
+6233  7 1500 2.0 ASD AO     135mm 26 Apr 2001 20:13   64      AV          PART      AM:A 
+6234  8  180 1.8 ASD AO     135mm 26 Apr 2001 20:13   64      AV          PART      AM:A 
+6235  9   60 4.5 ASD AO      28mm 27 May 2001 22:49   64      PRG   ATTL  PART      AM:A 
+6236 10 4000 1.4 ASD AO      50mm 27 May 2001 23:00   64      AV          PART      AM:A 
+6237 11    4  32 ASD AO      50mm 27 May 2001 23:00   64      AV          PART      AM:A 
+LENS DATA of "T902.RWD":
+	 0:'--'
+	 1:'28'
+	 2:'50'
+	 3:'135'
+	 4:'35-70'
+	 5:'35-105'
+	 6:'75-200'
+	 7:'100-300'
+	 8:'8'
+	 9:'15'
+	10:'17'
+	11:''
+
+Begin fe
+* Has already been dumped before
+
+NO.  FR   TV  AV             LENS        DATE  TIME  ISO  +/- AE-  FLASH METER
+                                                              MODE       -ING
+1901  0   60 4.0 ASD AO      17mm 17 Dez 2001  0:10  100      PRG   ATTL  PART      AM:A 
+1902  2   60 4.0 ASD AO      17mm 17 Dez 2001  0:10  100      PRG   ATTL  PART      AM:A 
+1903  3  0"7 5.6 ASD AO      15mm 20 Dez 2001 21:28  100      AV          PART      AM:A 
+1904  4    2 5.6 ASD AO      15mm 20 Dez 2001 21:28  100      AV          PART      AM:A 
+1905  5    2 5.6 ASD AO      15mm 20 Dez 2001 21:29  100      AV          PART      AM:A 
+1906  6    4 3.5 ASD AO      15mm 20 Dez 2001 21:30  100      AV          PART      AM:A 
+1907  7  1"5 6.7 ASD AO      15mm 20 Dez 2001 21:30  100      AV          PART      AM:A 
+1908  8    2 4.0 ASD AO      15mm 20 Dez 2001 21:31  100      AV          PART      AM:A 
+1909  9    3 4.0 ASD AO      15mm 20 Dez 2001 21:32  100      AV          PART      AM:A 
+1910 10    3 4.0 ASD AO       8mm 20 Dez 2001 21:34  100      AV          PART      AM:A 
+1911 11    3 4.0 ASD AO       8mm 20 Dez 2001 21:35  100      AV          PART      AM:A 
+1912 12  0"7 4.0 ASD AO       8mm 20 Dez 2001 21:35  100      AV          PART      AM:A 
+1913 13    3 4.0 ASD AO       8mm 20 Dez 2001 21:36  100      AV          PART      AM:A 
+1914 14   1" 4.0 ASD AO       8mm 20 Dez 2001 21:37  100      AV          PART      AM:A 
+1915 15    2 4.0 ASD AO       8mm 20 Dez 2001 21:38  100      AV          PART      AM:A 
+1916 16    3 4.0 ASD AO      15mm 20 Dez 2001 21:40  100      AV          PART      AM:A 
+1917 17    3 4.0 ASD AO      15mm 20 Dez 2001 21:40  100      AV          PART      AM:A 
+1918 18   2" 4.0 ASD AO      15mm 20 Dez 2001 21:41  100      AV          PART      AM:A 
+1919 19    2 6.7 ASD AO      15mm 20 Dez 2001 21:43  100      AV          PART      AM:A 
+1920 20  1"5 6.7 ASD AO      15mm 20 Dez 2001 21:45  100      AV          PART      AM:A 
+1921 21   1" 6.7 ASD AO      15mm 20 Dez 2001 21:46  100      AV          PART      AM:A 
+1922 24   45 8.0 ASD AO      15mm 31 Dez 2001 13:16  100      AV          PART      AM:A 
+1923 25   60 8.0 ASD AO      15mm 31 Dez 2001 13:17  100      AV          PART      AM:A 
+1924 26   60 8.0 ASD AO      15mm 31 Dez 2001 13:17  100      AV          PART      AM:A 
+1925 27   20 4.0 ASD AO      15mm 31 Dez 2001 13:50  100      AV          PART      AM:A 
+1926 28    8 4.0 ASD AO      15mm 31 Dez 2001 13:50  100      AV          PART      AM:A 
+1927 29   30 5.6 ASD AO      15mm 31 Dez 2001 13:51  100      AV          PART      AM:A 
+1928 30   60 5.6 ASD AO      15mm 31 Dez 2001 13:51  100      AV          PART      AM:A 
+1929 31   20  11 ASD AO       8mm 31 Dez 2001 13:55  100      AV          PART      AM:A 
+1930 32   10 8.0 ASD AO       8mm 31 Dez 2001 13:56  100      AV          PART      AM:A 
+1931 33   30 8.0 ASD AO       8mm 31 Dez 2001 13:56  100      AV          PART      AM:A 
+1932 34  250 M   MAN AO      28mm  1 Jan 2002 14:49  100      PRG   ATTL  PART      AM:A 
+1933 35   60 SDM MAN SD      28mm  1 Jan 2002 14:49  100      PRG   ATTL  PART      AM:A 
+1934 36   30 2.8 ASD AO      28mm  1 Jan 2002 14:53  100      AV    FEL   PART      AM:A FEL:0.0  EVR:-4.25
+
+LENS DATA of "T9025760.RWD":
+	 0:'--'
+	 1:'28'
+	 2:'50'
+	 3:'135'
+	 4:'35-70'
+	 5:'35-105'
+	 6:'75-200'
+	 7:'100-300'
+	 8:'8'
+	 9:'15'
+	10:'17'
+	11:''
+
+Begin ff
+
+NO.  FR   TV  AV             LENS        DATE  TIME  ISO  +/- AE-  FLASH METER
+                                                              MODE       -ING
+2009  1  180  22 ASD AO      15mm  8 May 2002 10:14  100      TV          PART      AM:A 
+2010  2  250 2.8 ASD AO      15mm  8 May 2002 10:15  100      TV          PART      AM:A 
+2011  3  350  11 ASD AO      15mm  8 May 2002 10:21  100      AV          PART      AM:A 
+2012  4  125  11 ASD AO      15mm  8 May 2002 10:34  100      AV          PART      AM:A 
+2013  5  125  13 ASD AO      15mm  8 May 2002 10:48  100      AV          PART      AM:A 
+2014  6  125  13 ASD AO      15mm  8 May 2002 10:49  100      AV          PART      AM:A 
+2015  7   90  13 ASD AO      15mm  8 May 2002 10:53  100      AV          PART      AM:A 
+2016  8   45  13 ASD AO      15mm  8 May 2002 10:54  100      AV          PART      AM:A 
+2017  9   45  13 ASD AO      15mm  8 May 2002 10:54  100      AV          PART      AM:A 
+2018 10   45  13 ASD AO      15mm  8 May 2002 10:54  100      AV          PART      AM:A 
+2019 11   45  13 ASD AO      15mm  8 May 2002 10:55  100      AV          PART      AM:A 
+2020 12   30  13 ASD AO      15mm  8 May 2002 10:55  100      AV          PART      AM:A 
+2021 13   45  13 ASD AO      15mm  8 May 2002 10:56  100      AV          PART      AM:A 
+2022 14  125  13 ASD AO      15mm  8 May 2002 10:59  100      AV          PART      AM:A 
+2023 15   60  13 ASD AO      15mm  8 May 2002 11:02  100      AV          PART      AM:A 
+2024 16  180  13 ASD AO      15mm  8 May 2002 11:03  100      AV          PART      AM:A 
+2025 17  125  13 ASD AO      15mm  8 May 2002 11:04  100      AV          PART      AM:A 
+2026 18  250  13 ASD AO      15mm  8 May 2002 11:07  100      AV          PART      AM:A 
+2027 19  180  13 ASD AO      15mm  8 May 2002 11:07  100      AV          PART      AM:A 
+2028 20  250  13 ASD AO       8mm  8 May 2002 11:08  100      AV          PART      AM:A 
+2029 21  250  13 ASD AO       8mm  8 May 2002 11:08  100      AV          PART      AM:A 
+2030 22  125  13 ASD AO       8mm  8 May 2002 11:10  100      AV          PART      AM:A 
+2031 23  180  13 ASD AO       8mm  8 May 2002 11:11  100      AV          PART      AM:A 
+2032 24   90  13 ASD AO       8mm  8 May 2002 11:12  100      AV          PART      AM:A 
+2033 25   15 8.0 ASD AO      15mm  8 May 2002 11:12  100      AV          PART      AM:A 
+2034 26   15 8.0 ASD AO      15mm  8 May 2002 11:13  100      AV          PART      AM:A 
+2035 27  180  13 ASD AO      15mm  8 May 2002 11:13  100      AV          PART      AM:A 
+2036 28  180  13 ASD AO      15mm  8 May 2002 11:13  100      AV          PART      AM:A 
+2037 29  180  13 ASD AO      15mm  8 May 2002 11:19  100      AV          PART      AM:A 
+2038 30  125  13 ASD AO      15mm  8 May 2002 11:19  100      AV          PART      AM:A 
+2039 31  125  13 ASD AO      15mm  8 May 2002 11:20  100      AV          PART      AM:A 
+2040 32  250 4.5 ASD AO      15mm  8 May 2002 11:21  100      AV          PART      AM:A 
+2041 33  350 8.0 ASD AO      15mm  8 May 2002 11:21  100      AV          PART      AM:A 
+2042 34  350 8.0 ASD AO      15mm  8 May 2002 11:22  100      AV          PART      AM:A 
+2043 35   60 4.0 ASD AO      15mm  8 May 2002 11:23  100      AV          PART      AM:A 
+2044 36  250 8.0 ASD AO      15mm  8 May 2002 11:23  100      AV          PART      AM:A 
+NO.  FR   TV  AV             LENS        DATE  TIME  ISO  +/- AE-  FLASH METER
+                                                              MODE       -ING
+2045  1  350  13 ASD AO      15mm  8 May 2002 11:26  100      AV          PART      AM:A 
+2046  2   20  13 ASD AO      15mm  8 May 2002 11:26  100      AV          PART      AM:A 
+2047  3  180  13 ASD AO      15mm  8 May 2002 11:28  100      AV          PART      AM:A 
+2048  4  125  13 ASD AO      15mm  8 May 2002 11:32  100      AV          PART      AM:A 
+2049  5  180  13 ASD AO      15mm  8 May 2002 11:46  100      AV          PART      AM:A 
+2050  6  180  13 ASD AO      15mm  8 May 2002 11:46  100      AV          PART      AM:A 
+2051  7   90  13 ASD AO      15mm  8 May 2002 11:46  100      AV          PART      AM:A 
+2052  8   90  13 ASD AO      15mm  8 May 2002 11:46  100      AV          PART      AM:A 
+2053  9   60  13 ASD AO      15mm  8 May 2002 11:47  100      AV          PART      AM:A 
+2054 10  125  13 ASD AO      15mm  8 May 2002 11:50  100      AV          PART      AM:A 
+2055 11  250  13 ASD AO      15mm  8 May 2002 11:50  100      AV          PART      AM:A 
+2056 12  125  13 ASD AO      15mm  8 May 2002 11:51  100      AV          PART      AM:A 
+2057 13  125  13 ASD AO      15mm  8 May 2002 11:51  100      AV          PART      AM:A 
+2058 14   30 9.5 ASD AO      15mm  9 May 2002  9:40  100      AV          PART      AM:A 
+2059 15   45 9.5 ASD AO      15mm  9 May 2002  9:40  100      AV          PART      AM:A 
+2060 16   90 9.5 ASD AO       8mm  9 May 2002  9:42  100      AV          PART      AM:A 
+2061 17   60  11 ASD AO       8mm  9 May 2002  9:43  100      AV          PART      AM:A 
+2062 18   45  11 ASD AO       8mm  9 May 2002  9:44  100      AV          PART      AM:A 
+2063 19   60 4.5 ASD AO      28mm 13 Jun 2002 10:22  100      P     ATTL  PART      AM:A 
+2064 20   60 4.5 ASD AO      28mm 13 Jun 2002 10:23  100      P     ATTL  PART      AM:A 
+2065 21   20 3.5 ASD AO      28mm 13 Jun 2002 16:25  100      P           PART      AM:A 
+2066 22    8 5.6 ASD AO      28mm 13 Jun 2002 16:26  100      AV          PART      AM:A 
+2067 23   45 5.6 ASD AO      28mm 13 Jun 2002 20:36  100      AV          PART      AM:A 
+2068 24   30 8.0 ASD AO      15mm 13 Jun 2002 21:07  100      AV          PART      AM:A 
+2069 25   15 8.0 ASD AO      15mm 13 Jun 2002 21:07  100      AV          PART      AM:A 
+2070 26  125 8.0 ASD AO      15mm 13 Jun 2002 21:08  100      AV          PART      AM:A 
+2071 27   60 5.6 ASD AO      28mm 14 Jun 2002 12:31  100      P     ATTL  PART      AM:A 
+2072 28   60 5.6 ASD AO      28mm 14 Jun 2002 12:32  100      P     ATTL  PART      AM:A 
+2073 29   60 5.6 ASD AO      28mm 14 Jun 2002 12:33  100      P     ATTL  PART      AM:A 
+2074 30   60 5.6 ASD AO      28mm 14 Jun 2002 13:45  100      P     ATTL  PART      AM:A 
+2075 31   60 4.0 ASD AO      28mm 14 Jun 2002 13:45  100      P     ATTL  PART      AM:A 
+2076 32   30 4.5 ASD AO      15mm 15 Jun 2002  8:19  100      TV          PART      AM:A 
+2077 33   30 4.5 ASD AO      15mm 15 Jun 2002  8:24  100      TV          PART      AM:A 
+2078 34   30 4.0 ASD AO      15mm 15 Jun 2002  8:28  100      TV          PART      AM:A 
+2079 35   30 4.5 ASD AO      15mm 15 Jun 2002  8:32  100      TV          PART      AM:A 
+2080 36   20 6.7 ASD AO      15mm 15 Jun 2002  8:35  100      TV          PART      AM:A 
+NO.  FR   TV  AV             LENS        DATE  TIME  ISO  +/- AE-  FLASH METER
+                                                              MODE       -ING
+2081  1   20  11 ASD AO      15mm 15 Jun 2002  8:40  100      TV          PART      AM:A 
+2082  2   30 4.5 ASD AO      15mm 15 Jun 2002  8:40  100      TV          PART      AM:A 
+2083  3   30 6.7 ASD AO      15mm 15 Jun 2002  8:40  100      TV          PART      AM:A 
+2084  4   30 9.5 ASD AO      15mm 15 Jun 2002  8:41  100      TV          PART      AM:A 
+2085  5   30  13 ASD AO      15mm 15 Jun 2002  8:41  100      TV          PART      AM:A 
+2086  6   30 6.7 ASD AO      15mm 15 Jun 2002  8:41  100      TV          PART      AM:A 
+2087  7   30 4.0 ASD AO      15mm 15 Jun 2002  8:41  100      TV          PART      AM:A 
+2088  8   30 8.0 ASD AO      15mm 15 Jun 2002  8:41  100      TV          PART      AM:A 
+2089  9   30 8.0 ASD AO      28mm 15 Jun 2002  9:05  100      TV          PART      AM:A 
+2090 10   30 6.7 ASD AO      28mm 15 Jun 2002 12:50  100      TV          PART      AM:A 
+2091 11   30  13 ASD AO      15mm 15 Jun 2002 12:51  100      TV          PART      AM:A 
+2092 12   45  16 ASD AO      28mm 15 Jun 2002 12:53  100      TV          PART      AM:A 
+2093 13   60 5.6 ASD AO      28mm 15 Jun 2002 14:56  100      P     ATTL  PART      AM:A 
+2094 14   60 5.6 ASD AO      28mm 15 Jun 2002 14:57  100      P     ATTL  PART      AM:A 
+2095 15   60 4.5 ASD AO      28mm 15 Jun 2002 14:57  100      P     ATTL  PART      AM:A 
+2096 16   60 3.5 ASD AO      28mm 15 Jun 2002 14:57  100      P     ATTL  PART      AM:A 
+2097 17   60 5.6 ASD AO      28mm 15 Jun 2002 14:57  100      P     ATTL  PART      AM:A 
+2098 18   60 3.5 ASD AO      28mm 15 Jun 2002 14:58  100      P     ATTL  PART      AM:A 
+2099 19   60 4.5 ASD AO      28mm 15 Jun 2002 14:58  100      P     ATTL  PART      AM:A 
+2100 20   60 5.6 ASD AO      28mm 15 Jun 2002 14:58  100      P     ATTL  PART      AM:A 
+2101 21   60 5.6 ASD AO      28mm 15 Jun 2002 14:59  100      P     ATTL  PART      AM:A 
+2102 22   60 2.8 ASD AO      50mm 18 Jun 2002  7:15  100      P           PART      AM:A 
+2103 23  500 2.0 ASD AO      50mm 18 Jun 2002  7:25  100      AV          PART      AM:A 
+2104 24  125 2.8 ASD AO      50mm 18 Jun 2002  7:33  100      AV          PART      AM:A 
+2105 25  750 2.0 ASD AO      50mm 18 Jun 2002  7:36  100      AV          PART      AM:A 
+2106 26  350 2.0 ASD AO      50mm 18 Jun 2002  7:37  100      AV          PART      AM:A 
+2107 27   90 5.6 ASD AO      15mm 18 Jun 2002  7:40  100      AV          PART      AM:A 
+2108 28   20  13 ASD AO      15mm 18 Jun 2002  7:43  100      AV          PART      AM:A 
+2109 29  350 2.0 ASD AO      50mm 18 Jun 2002  7:52  100      AV          PART      AM:A 
+2110 30  180 1.8 ASD AO      50mm 18 Jun 2002  8:03  100      AV          PART      AM:A 
+2111 31   60 2.8 ASD AO      50mm 18 Jun 2002  8:06  100      AV          PART      AM:A 
+2112 32   60 2.8 ASD AO      50mm 18 Jun 2002  8:07  100      AV          PART      AM:A 
+2113 33  180 2.8 ASD AO      50mm 18 Jun 2002  8:37  100      AV          PART      AM:A 
+2114 34   90 3.5 ASD AO      50mm 18 Jun 2002  8:44  100      AV          PART      AM:A 
+2115 35  250 2.0 ASD AO      50mm 18 Jun 2002  9:05  100      AV          PART      AM:A 
+2116 36   60 8.0 ASD AO      17mm 18 Jun 2002  9:15  100      AV          PART      AM:A 
+NO.  FR   TV  AV             LENS        DATE  TIME  ISO  +/- AE-  FLASH METER
+                                                              MODE       -ING
+2117  1  125 8.0 ASD AO      28mm 18 Jun 2002  9:27  100      AV          PART      AM:A 
+2118  2   30 3.5 ASD AO      28mm 18 Jun 2002  9:28  100      AV          PART      AM:A 
+2119  3  125 8.0 ASD AO      28mm 18 Jun 2002  9:35  100      AV          PART      AM:A 
+2120  4  250 8.0 ASD AO      28mm 18 Jun 2002  9:35  100      AV          PART      AM:A 
+2121  5  125 8.0 ASD AO      28mm 18 Jun 2002  9:36  100      AV          PART      AM:A 
+2122  6  125 8.0 ASD AO      28mm 18 Jun 2002  9:36  100      AV          PART      AM:A 
+2123  7   60 8.0 ASD AO      50mm 18 Jun 2002  9:40  100      AV          PART      AM:A 
+2124  8 4000 2.8 ASD AO      50mm 18 Jun 2002  9:42  100      AV          PART      AM:A 
+2125  9 1000 2.8 ASD AO      50mm 18 Jun 2002  9:44  100      AV          PART      AM:A 
+2126 10 4000 3.5 ASD AO      50mm 18 Jun 2002  9:45  100      AV          PART      AM:A 
+2127 11 2000 4.0 ASD AO      50mm 18 Jun 2002  9:46  100      AV          PART      AM:A 
+2128 12  750 4.0 ASD AO      50mm 18 Jun 2002  9:46  100      AV          PART      AM:A 
+2129 13 1500 4.0 ASD AO      50mm 18 Jun 2002  9:48  100      AV          PART      AM:A 
+2130 15   90  11 ASD AO      28mm 18 Jun 2002  9:50  100      AV          PART      AM:A 
+2131 16   90  11 ASD AO      28mm 18 Jun 2002  9:52  100      AV          PART      AM:A 
+2132 17  500 6.7 ASD AO      28mm 18 Jun 2002  9:55  100      AV          PART      AM:A 
+2133 18  125 6.7 ASD AO      28mm 18 Jun 2002  9:57  100      AV          PART      AM:A 
+2134 19   90 6.7 ASD AO      28mm 18 Jun 2002  9:59  100      AV          PART      AM:A 
+2135 20   90 6.7 ASD AO      28mm 18 Jun 2002  9:59  100      AV          PART      AM:A 
+2136 21   45  13 ASD AO      28mm 18 Jun 2002  9:59  100      AV          PART      AM:A 
+2137 22   90 8.0 ASD AO      28mm 18 Jun 2002 10:12  100      AV          PART      AM:A 
+2138 23  125 8.0 ASD AO      28mm 18 Jun 2002 10:12  100      AV          PART      AM:A 
+2139 24  180 8.0 ASD AO      28mm 18 Jun 2002 10:13  100      AV          PART      AM:A 
+2140 25  350 5.6 ASD AO      28mm 18 Jun 2002 10:13  100      AV          PART      AM:A 
+2141 26  125 5.6 ASD AO      28mm 18 Jun 2002 10:21  100      AV          PART      AM:A 
+2142 27   45 8.0 ASD AO      28mm 18 Jun 2002 10:21  100      AV          PART      AM:A 
+2143 28   30 8.0 ASD AO      28mm 18 Jun 2002 10:22  100      AV          PART      AM:A 
+2144 29   60 8.0 ASD AO      28mm 18 Jun 2002 10:22  100      AV          PART      AM:A 
+2145 30   45 8.0 ASD AO      28mm 18 Jun 2002 10:23  100      AV          PART      AM:A 
+2146 31   30 8.0 ASD AO      28mm 18 Jun 2002 10:26  100      AV          PART      AM:A 
+2147 32   45 8.0 ASD AO      28mm 18 Jun 2002 10:28  100      AV          PART      AM:A 
+2148 33   60 8.0 ASD AO      28mm 18 Jun 2002 10:29  100      AV          PART      AM:A 
+2149 34  750 8.0 ASD AO      28mm 18 Jun 2002 10:32  100      AV          PART      AM:A 
+2150 35  350 8.0 ASD AO      28mm 18 Jun 2002 10:36  100      AV          PART      AM:A 
+2151 36  500 8.0 ASD AO      28mm 18 Jun 2002 10:37  100      AV          PART      AM:A 

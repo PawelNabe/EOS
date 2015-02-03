@@ -1,0 +1,12 @@
+[Settings]
+script=C:\EOS\findi.pl
+args=
+pathinfo=
+itype=0
+[Wizard]
+form=
+errout=
+dout=
+rout=
+parse=0
+out=0

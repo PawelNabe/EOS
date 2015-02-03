@@ -1,0 +1,12 @@
+[Settings]
+script=C:\EOS\txt2htm.pl
+args=c:/eos/e604film
+pathinfo=
+itype=1
+[Wizard]
+form=
+errout=
+dout=
+rout=http://
+parse=0
+out=0
